@@ -11,27 +11,27 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Joshua Holt
   title:
   license_number:
   about_markdown: |
 
-  brand:
-  brokerage:
+  brand: Holt Real Estate Team
+  brokerage: Keller Williams
   market:
-  address:
-  phone:
+  address: 200 River Pl 130 Monona, WI 53716
+  phone: 608-345-6594
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: jdholt@kw.com
+  url: jdholt.kw.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://jdholt.kw.com/listings-search/#/2033763787
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://jdholt.kw.com/listings-search/#/2033763787
 
 lender:
   show_section: false
@@ -62,8 +62,8 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/holtrealestateteam/
+  linkedin_url: https://www.linkedin.com/in/joshua-d-holt/
   youtube_url:
   twitter_url:
   instagram_url:
@@ -94,8 +94,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#374C9E'
+  theme_color: '#232628'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
