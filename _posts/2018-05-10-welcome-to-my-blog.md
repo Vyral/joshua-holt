@@ -10,7 +10,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-house-real-estate-data-and-re-123908963.jpg
 layout: post
-title: this is a test post
+title: Welcome To My Blog!
 date: 2018-05-10 00:00:00
 tags:
   - Market Update
