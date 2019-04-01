@@ -16,7 +16,10 @@ permalink: /about/
 <p>Immediately following high school, I enlisted in the US Army Reserves where I honorably served for 5 years.  While serving our country I also obtained my degree in Marketing and Management with an emphasis on Education.  As I embarked on my professional life, I knew I was really meant for a career in sales where I’ve held a variety of positions, first in retail and ultimately in sales leadership and training with a Fortune 100 financial services firm.  With my roots in education and training, Real Estate proved to be a natural fit.</p>
 
 <div class="testimonial-image-container">
-<img src="/img/jholt.jpg" class="40">
+<img src="/img/jholt.jpg" class="40%">
+</div>
+<div class="testimonial-image-container">
+<img src="/img/army.jpg" class="40%">
 </div>
 
 <hr>
@@ -33,7 +36,7 @@ permalink: /about/
 <div class="testimonial-image-container">
 <img src="/img/cubs.jpg" class="100">
 </div>
-
+<br>
 <p>Perhaps some of my eternal optimism comes from my lifetime as a Cubs fan.  Finally 2016 was the year!  While I wasn’t blessed with the skills to be a baseball player, I feel my purpose in life has been to help people and that is what has drawn me to a career in real estate.</p>
 
 <hr>
