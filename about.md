@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<br>
+<br>
 <h1>Meet Joshua Holt</h1>
 
 <p>Optimism can take you anywhere!  I take pride in taking time to understand my client’s needs through great listening skills and analytical thinking. Knowing I have found the ideal match for my client fulfills my belief that the pursuit is the reward.</p>
@@ -11,18 +13,17 @@ permalink: /about/
 
 <h1>Before Real Estate</h1>
 
-images
-
 <p>Immediately following high school, I enlisted in the US Army Reserves where I honorably served for 5 years.  While serving our country I also obtained my degree in Marketing and Management with an emphasis on Education.  As I embarked on my professional life, I knew I was really meant for a career in sales where I’ve held a variety of positions, first in retail and ultimately in sales leadership and training with a Fortune 100 financial services firm.  With my roots in education and training, Real Estate proved to be a natural fit.</p>
+
+IMAGES
 
 <hr>
 
 <h1>MY FAMILY THAT I LOVE:</h1>
 
-image
-
 <p>My wife Katie and daughter are my Big Why!  As a family we enjoy cooking, watching baseball and visiting places throughout Wisconsin and Chicago.  We are long-term residents of Stoughton where I am an ambassador with the Chamber of Commerce. I am also a Service Officer with the local American Legion Post in Stoughton.</p>
 
+IMAGE
 <hr>
 
 image
