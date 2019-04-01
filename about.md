@@ -4,6 +4,31 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
+<h1>Meet Joshua Holt</h1>
 
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+<p>Optimism can take you anywhere!  I take pride in taking time to understand my client’s needs through great listening skills and analytical thinking. Knowing I have found the ideal match for my client fulfills my belief that the pursuit is the reward.</p>
+
+
+<h1>Before Real Estate</h1>
+
+images
+
+<p>Immediately following high school, I enlisted in the US Army Reserves where I honorably served for 5 years.  While serving our country I also obtained my degree in Marketing and Management with an emphasis on Education.  As I embarked on my professional life, I knew I was really meant for a career in sales where I’ve held a variety of positions, first in retail and ultimately in sales leadership and training with a Fortune 100 financial services firm.  With my roots in education and training, Real Estate proved to be a natural fit.</p>
+
+<hr>
+
+<h1>MY FAMILY THAT I LOVE:</h1>
+
+image
+
+<p>My wife Katie and daughter are my Big Why!  As a family we enjoy cooking, watching baseball and visiting places throughout Wisconsin and Chicago.  We are long-term residents of Stoughton where I am an ambassador with the Chamber of Commerce. I am also a Service Officer with the local American Legion Post in Stoughton.</p>
+
+<hr>
+
+image
+
+<p>Perhaps some of my eternal optimism comes from my lifetime as a Cubs fan.  Finally 2016 was the year!  While I wasn’t blessed with the skills to be a baseball player, I feel my purpose in life has been to help people and that is what has drawn me to a career in real estate.</p>
+
+<hr>
+Our philosophy is simple: clients come first. We pledge to be in constant communication with our clients, keeping them fully informed throughout the entire buying or selling process. We believe that if you’re not left with an amazing experience, we haven’t done our job. We don’t measure success through achievements or awards, but through the satisfaction of our clients.
+
