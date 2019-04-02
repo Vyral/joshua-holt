@@ -24,7 +24,7 @@ permalink: /about/
 
 <hr>
 
-<h1>My Family That I Love:</h1>
+<h1>My Family That I Love</h1>
 
 <p>My wife Katie and daughter are my Big Why! As a family we enjoy cooking, watching baseball and visiting places throughout Wisconsin and Chicago. We are long-term residents of Stoughton where I serve as the ambassador co-chair with the Chamber of Commerce. I am also a proud board member with the local American Legion Post 59 as the Service Officer. I also enjoy giving back to our local schools both in time volunteering in the classroom and sponsorship.</p>
 
