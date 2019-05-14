@@ -39,7 +39,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://jdholt.kw.com/listings-search/#/2033763787'
+  second_CTA_URL: 'http://homeswithholt.com/property-search/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
