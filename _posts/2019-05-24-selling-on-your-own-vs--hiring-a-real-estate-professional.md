@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selling On Your Own vs. Hiring a Real Estate Professional
+title: Selling on Your Own vs. Hiring a Real Estate Professional
 date: 2019-05-24 16:42:00
 tags:
   - Home Seller Tips
