@@ -2,7 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/welcome-to-my-blog.html</loc>
-<lastmod>2018-05-09T19:00:00-05:00</lastmod>
+<lastmod>2019-03-31T19:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/april-real-estate-market-update.html</loc>
+<lastmod>2019-04-12T11:31:47-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/4-buyer-tips-for-navigating-our-current-market.html</loc>
+<lastmod>2019-05-09T14:59:46-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/selling-on-your-own-vs-hiring-a-real-estate-professional.html</loc>
+<lastmod>2019-05-24T11:42:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/why-downsize-your-home.html</loc>
+<lastmod>2019-06-07T10:59:57-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

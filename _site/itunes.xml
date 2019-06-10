@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Madison Valley Real Estate Podcast with Joshua Holt</title>
+    <title>Madison Area Real Estate Podcast with Joshua Holt</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Valley Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joshua Holt</managingEditor>
-    <lastBuildDate>2019-03-25 14:04:52 -0500</lastBuildDate>
+    <lastBuildDate>2019-06-10 15:35:29 -0500</lastBuildDate>
     <media:copyright>Joshua Holt</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>jdholt@kw.com</itunes:email>
@@ -19,11 +19,153 @@
     <itunes:author>Joshua Holt</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Madison Valley Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Valley Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Madison Area Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Why Downsize Your Home?</title>
+        <link>http://localhost:4000/why-downsize-your-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2019-06-07 10:59:57 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2019/June/Madison%2C+WI+Real+Estate+Agent-+Why+Downsize+Your+Home_.mp4</guid>
+        <description>
+
+Downsizing is the process of moving from a larger home to a smaller one. Why might people do this? As it turns out, there are many reasons:
+
+Most often, people downsize when there has been a life-changing occurrence, such as when the kids graduate and move away, or maybe you’re on the verge of retirement. 
+
+It could also be that you just realize that managing a home of a certain size is more work, stress, and money than you can handle, and so a smaller home simply seems more feasible for you. This is especially true for elderly homeowners, and even for those who lead lifestyles that are simply too busy to allow them to juggle home maintenance with their lives.
+
+“If you’re on a larger lot that requires continuous landscaping and maintenance, perhaps that means it’s time to look for something a little more manageable.”
+
+Especially for those whose kids have moved away from home, another reason to downsize is the realization that you just have too much space that you don’t use. That goes for the outside, as well; if you’re on a larger lot that requires continuous landscaping and maintenance, perhaps that means it’s time to look for something a little more manageable. 
+
+Lastly, there are financial benefits to downsizing your home. If you’ve lived in your home for a long time, you’ve probably built up a fair amount of equity. Now could be the most opportune time to put your home on the market and make the move using the money you have tied up in the home.
+
+If you have any questions or comments about downsizing, don’t hesitate to reach out to me. I’d love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2019/June/Madison%2C+WI+Real+Estate+Agent-+Why+Downsize+Your+Home_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2019/June/Madison%2C+WI+Real+Estate+Agent-+Why+Downsize+Your+Home_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How do know if it’s time to downsize your home? Learn the signs right here.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>How do know if it’s time to downsize your home? Learn the signs right here.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Selling on Your Own vs. Hiring a Real Estate Professional</title>
+        <link>http://localhost:4000/selling-on-your-own-vs-hiring-a-real-estate-professional.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2019-05-24 11:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+Selling+On+Your+Own+vs.+Hiring+a+Real+Estate+Professional.mp4</guid>
+        <description>
+
+When you’re weighing the decision to hire a real estate professional to help you sell your home versus just doing it by yourself, there are four key points to keep in mind that will help you make your final decision about which route to go:
+
+1. Contracts and paperwork. Regardless of who’s doing the selling, you’re still entering into a legally binding contract with the other party when you do sell it. If you’re not using a real estate professional to help you, you’ll want to have a real estate attorney review the contracts for you so that you can be sure that your transaction is legally compliant.
+
+2. Marketing your home. The goal of most sellers is to get their listing in front of as many qualified buyers’ eyes as possible. In this day and age, you can do a lot on your own to give your listing exposure, particularly with social media. However, did you know that there are literally thousands of websites out there that real estate professionals post your listings to if you work with them? Chances are you don’t have the time or resources to post to that many sites!
+
+“Selling a home is about more than just the dollars and cents—you also need to think about the amount of time you have to dedicate to the logistics.”
+
+3. Pricing your home accurately. The reality is that you only have one shot to make a great initial impression. If you price your home too high when you first put it on the market, it will probably sit stagnant on the market, causing people to wonder what’s wrong with it. It’s a surefire way to reduce the amount of activity your home will see. The same is true if you price it too low. Many people like to go online to check home values, but there’s really no better way to get the true value of your home than to talk to a real estate professional (like myself). We can do a comparative market analysis (CMA) to help you discern what people would be willing to pay for your home.
+
+4. The value of your time. A lot of folks don’t always think of how much time it takes to sell a home. Regardless of whether you sell yours on your own or if you hire an agent, there are things you’ll need to do in order to make sure the sale goes your way, like getting the property in show-ready condition. When you work with a real estate professional, they’ll handle all the particulars of the transaction for you, like scheduling showings and negotiating with the buyers and their agents. You likely have your own career to deal with, and you probably won’t be available when a buyer wants to see your home. Further still, we vet your buyers to make sure they’re qualified to actually be able to purchase the home. Selling a home is about more than just the dollars and cents—you also need to think about the amount of time you have to dedicate to the logistics.
+
+If you have any questions about today’s topic or if you’re in need of a real estate professional to help you with your own home sale, feel free to give me a call or send an email. I’d be glad to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+Selling+On+Your+Own+vs.+Hiring+a+Real+Estate+Professional.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+Selling+On+Your+Own+vs.+Hiring+a+Real+Estate+Professional.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s the difference between hiring a real estate professional to help you sell your home and just selling it by yourself? Today I’ll discuss my answer to this question.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>What’s the difference between hiring a real estate professional to help you sell your home and just selling it by yourself? Today I’ll discuss my answer to this question.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Buyer Tips for Navigating Our Current Market</title>
+        <link>http://localhost:4000/4-buyer-tips-for-navigating-our-current-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2019-05-09 14:59:46 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+4+Buyer+Tips+for+Navigating+Our+Current+Market.mp4</guid>
+        <description>
+
+These four tips will aid you in better navigating the current real estate market as a homebuyer:
+
+1. Consider submitting a larger earnest money deposit with your offer. There might not be an industry standard for this, but the earnest money is a good faith deposit that accompanies your offer and will speak volumes about your enthusiasm and seriousness about buying the property. By putting in a few thousand dollars extra, then, you’ll let the seller know that you’re a strong and serious buyer. 
+
+2. Show the sellers that you are qualified to purchase their home. Probably most important of all, you need to show that you’ve taken the steps to meet with a lender and not only get pre-qualified, but pre-approved as well. A pre-approval, again, solidly demonstrates that you’re a serious and able buyer.  
+
+“Put your best foot forward when making your offer to the extent that you’re comfortable.”
+
+3. Give the sellers time to move and find out what terms are important to them. With good communication, your agent can help you with this. Whether the seller wants to have an expedient close and move-out or they need extra time, it’ll look good if you can accommodate the timetable that works best for them. 
+
+4. Write your best offer! In this moment’s market, it won’t serve you well to write a lowball offer in the hopes that you’ll negotiate higher. Instead of counting on the seller’s willingness to negotiate and counter back, put your best foot forward when making your offer to the extent that you’re comfortable. In other words, decide how high you’re willing to go, so that if the home sold for more than that, you’d be comfortable walking away. Most sellers won’t have the appetite to go back and forth if another buyer sets themselves apart by making their best offer from the outset. 
+
+If you’re looking to purchase a home in the Greater Madison area, I’d be happy to help. I’m an Accredited Buyer’s Representative, which means I have additional education to best help buyers navigate the market of the moment. Let’s make your dream of homeownership come true! Please give me a call at 608-345-6594 or email me at JDHolt@KW.com. I look forward to hearing from you soon! 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+4+Buyer+Tips+for+Navigating+Our+Current+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/May/Madison%2C+WI+Real+Estate+Agent-+4+Buyer+Tips+for+Navigating+Our+Current+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Realizing the dream of homeownership means navigating the purchase process adeptly. Today’s four buyer tips will help you do so.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>Realizing the dream of homeownership means navigating the purchase process adeptly. Today’s four buyer tips will help you do so.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>April Real Estate Market Update</title>
+        <link>http://localhost:4000/april-real-estate-market-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2019-04-12 11:31:47 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/April/Madison%2C+WI+Real+Estate+Agent-+April+Real+Estate+Market+Update.mp4</guid>
+        <description>
+
+There’s not really a one-size-fits-all answer to the question, “How is the market?” It depends on whether you’re looking to buy or sell, what your price point is, where you’re looking to live, and much more. These factors all play a part, so let’s see what the latest numbers have to say for each.
+
+In the Greater Dane County area, we’re expecting home prices to increase. Right now, the median price of a single-family home is $300,000, and condos are around $195,000.
+
+Inventory is illustrated in terms of how many months it would take for all currently listed homes to sell. Six months of inventory is a balanced market; anything above that is a buyer’s market, and anything below is a seller’s market. 
+
+“Ultimately, it’s still a great market for buyers and sellers alike.”
+
+As of now, we have an average of 1.5 months’ worth of inventory. Homes in the $200,000 price range only have two weeks of inventory. The $200,000 to $350,000 range has one month of inventory. At $350,000 to $500,000, there are 2.5 months of inventory—things tend to soften as price points increase. Over $500,000, there are 4.5 months of inventory.
+
+There are about 800 single-family homes currently on the market. On average, they take 87 days to sell. Interest rates are in the low 4% range for a 30-year fixed rate mortgage, so ultimately, it’s still a great market for buyers and sellers alike.
+
+Making the most out of our market, however, depends on who you have working as your real estate professional. I’d be more than happy to help you find a great deal on the perfect home or make a sale for top dollar. If you have any questions or need more information, feel free to reach out to me. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/April/Madison%2C+WI+Real+Estate+Agent-+April+Real+Estate+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Josh+Holt/Videos/2019/April/Madison%2C+WI+Real+Estate+Agent-+April+Real+Estate+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What do the latest stats tell us about our market? Let’s find out today.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>What do the latest stats tell us about our market? Let’s find out today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Welcome To My Blog!</title>
         <link>http://localhost:4000/welcome-to-my-blog.html</link>
@@ -35,11 +177,9 @@
           <category>Home Seller Tips</category>
         
         <author>Joshua Holt</author>
-        <pubDate>2018-05-09 19:00:00 -0500</pubDate>
+        <pubDate>2019-03-31 19:00:00 -0500</pubDate>
         <guid></guid>
-        <description> 
-
-Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
+        <description>Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
 
 I know what’s happening in the Madison area, specifically pertaining to home values, that will directly affect you.
 
@@ -58,12 +198,12 @@ I’m excited to keep you updated on what’s happening in the Madison area!
         <itunes:subtitle>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Joshua Holt</copyright>
     <media:credit role="author">Joshua Holt</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Valley Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</media:description>
   </channel>
 </rss>
