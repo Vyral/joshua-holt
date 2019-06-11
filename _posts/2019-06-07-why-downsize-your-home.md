@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Downsize Your Home?
-date: 2019-06-07 15:59:57
+date: 2019-06-07 15:59:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/downsizing-youtube.jpg
+youtube_alternate_image: /uploads/downsizing-youtube-02.jpg
 youtube_code: BSJvrdHY5BQ
 ---
 
