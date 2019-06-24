@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Enhance Your Home’s Appeal to Buyers
-date: 2019-06-21 19:59:08
+date: 2019-06-21 19:59:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -23,9 +23,9 @@ youtube_code: H-tb1_q9DFA
 
 When you’re a home seller looking to create the best first impression on potential buyers, there are a number of different strategies to follow:
 
-**1\. Start by improving the curb appeal.** Start from the street and work your way in. This includes looking at things like your driveway, the exterior landscaping, and the exterior of the home in general. Look at the outside of the property from a buyer’s perspective to make sure that it looks the best it possibly can. That way, when potential buyers drive or walk by the home, they’ll get the impression your home is well-maintained.
+**1\. Start by improving the curb appeal.** Start from the street and work your way in. This includes looking at things like your driveway, the exterior landscaping, and the exterior of the home in general. Look at the outside of the property from a buyer’s perspective to make sure that it looks the best it possibly can. This way, when potential buyers drive or walk by the home, they’ll get the impression your home is well-maintained.
 
-**2\. Have a clean entryway.** Make sure that your doormat is clean, your front door is freshly painted and presentable, and that your doorbell is in working order. The colors of your door should complement your home, and if possible, the neighborhood at large.
+**2\. Have a clean entryway.** Make sure that your doormat is clean, your front door is freshly painted and presentable, and that your doorbell is in working order. The color of your door should complement your home, and if possible, the neighborhood at large.
 
 **3\. Eliminate any odors.** You don’t want potential buyers to walk into your home, only to be smacked in the face by the odor of pets, cigarette smoke, and even chemical smells—be careful to limit your use of deodorizers and fragrances, which can turn off potential buyers. The key when it comes to scent is balance.
 
