@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell a Home at the Same Time
-date: 2019-07-05 17:03:40
+date: 2019-07-05 17:03:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -32,7 +32,7 @@ There are three ways to go about handling both these transactions at once:
 
 **1\. Sell your current home first.** To do this, you’ll need to list your home on the market at an appropriate price that you know will help it sell quickly. This can be an advantageous way to go about it, since a lot of sellers will be hesitant to accept an offer that’s contingent on you selling your current home.
 
-Once you close on the sale of your current home, you could potentially do a rent-back agreement, in which the purchasers of your home agree to let you live there for a predetermined period of time for rent. This would allow you time to find and purchase a new home to move into
+Once you close on the sale of your current home, you could potentially do a rent-back agreement, in which the purchasers of your home agree to let you live there for a predetermined period of time for rent. This would allow you time to find and purchase a new home to move into.
 
 **2\. Buy your new home first.** In this situation, you might be saddled with two concurrent mortgages, so it may not be ideal, depending on your financial situation.
 
