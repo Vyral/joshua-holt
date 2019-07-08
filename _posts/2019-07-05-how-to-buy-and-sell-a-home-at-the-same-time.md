@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/buy-and-sell-youtube.jpg
+youtube_alternate_image: /uploads/buy-and-sell-youtube-02.jpg
 youtube_code: qPZwgIMaGf4
 ---
 
