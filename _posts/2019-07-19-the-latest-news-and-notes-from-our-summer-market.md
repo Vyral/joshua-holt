@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News and Notes From Our Summer Market
-date: 2019-07-19 16:14:25
+date: 2019-07-19 16:14:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/summer-market-update-youtube.jpg
-youtube_code: T5P2EXF-GpQ
+youtube_code: SXnRcYfZNYA
 ---
 
 {% include youtube.html %}
@@ -37,7 +37,7 @@ In the up-to-$200,000 price point, we have just 0.85 months’ worth of inventor
 
 **As for median sales price, single-family homes are selling for $319,000 right now.** Contrast that with the median price for these homes in the spring, which was $300,000. The median sale price for condos has slightly increased to $200,000.&nbsp;
 
-Now, I know not everyone lives in or is focused on the numbers for Dane County, so I’d also like to share a quick update on the larger South Central Wisconsin region. Let’s quickly run through the numbers:&nbsp;
+Now, I know not everyone lives in or is focused on the numbers for Dane County, so let’s quickly run through the numbers for the larger South Central Wisconsin region:
 
 * Regional inventory is at 2.8 months’ worth
 * Regional median sales price for single-family homes has fallen a bit to $232,000
