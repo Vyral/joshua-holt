@@ -1,5 +1,11 @@
 show_testimonials_section: true
 testimonial:
+  - quote: We recently just purchased our first home through Josh. We were looking for a home for about 8 months and went through many many homes before finally choosing one. Josh was so patient with us and catered to our needs! He was always available when we had questions or wanted to go see a house and did a great job working with us!!
+    name: Megan (Buyer)
+
+  - quote: I recently purchased my first home with Josh as my buyers agent. He insured the entire process went smoothly. He kept me well informed and answered all of my questions thoroughly. He is knowledgeable, trustworthy and very responsive. I would not hesitate to work with Josh again in the future.
+    name: Jesse (Buyer)
+
   - quote: Joshua did exactly what he said he would do. First class in all phases of getting our property sold. We would highly recommend Joshua for any real estate needs and we will certainly use him again for any needs we may have.
     name: Georgia and Jim - Seller
 
@@ -27,3 +33,5 @@ testimonial:
   - quote: When I was searching for a new place to live in June, I happened to be put in the capable hands of Joshua at Keller Williams. I was panicked and didn’t have much money to buy a place and he constantly reassured me about how he would do anything to help me find a place or with anything I’d need. The very first day I went looking for a Condo with Joshua, I wanted to see a number of places but figured Joshua had other appointments and would never have time to show me different places. But, I was wrong for Joshua took me to every place I wanted to see and even back to a place we already looked at just to make sure. Well, the place we saw again was what I could afford and we made an offer on it. We even made a lower offer to see if it would be accepted. It was accepted and the ball was rolling. I was then getting more nervous each day as the offer was accepted. Frequently I would get a reassuring call from Joshua calming my fears about finances and wanting to know if there was anything I needed. He was also very helpful about finding moving help, (which, by the way, included him offering to help me) I’ve never found or heard of a Realtor helping me move. I thought he was kidding, but on the hottest, most sticky day of June he was ready to go and helped me move my things in a big truck. I was completely grateful and was never charged a penny for the help. If I had to move again, I would choose Keller Williams and I highly recommend Joshua Holt with Keller Williams for his support and dedication to making my whole experience run smoothly from beginning to end.
     name: Sally - Buyer
 
+  # - quote:
+  #   name:
