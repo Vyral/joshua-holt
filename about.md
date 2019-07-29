@@ -30,9 +30,9 @@ When you work with our team, you will receive a knowledgeable and professional r
 
 ### Why Work With A Keller Williams Agent?
 
-&nbsp;
-
 Looking to sell your home? With our relationship with Keller Williams Realty, you will now have access to over 160,000 associates across the country (and thousands more worldwide) to help you sell your property. With our technology, we are leading the way in how homes are sold and purchased through online marketing.
+
+&nbsp;
 
 Through our KWLS system, your listing will display on top name sites like Zillow, Trulia, Realtor.com and over 750 other sites to get you the most exposure to your home.
 
