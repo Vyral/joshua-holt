@@ -32,8 +32,8 @@ When you work with our team, you will receive a knowledgeable and professional r
 
 Looking to sell your home? With our relationship with Keller Williams Realty, you will now have access to over 160,000 associates across the country (and thousands more worldwide) to help you sell your property. With our technology, we are leading the way in how homes are sold and purchased through online marketing.
 
-&nbsp;
-
 Through our KWLS system, your listing will display on top name sites like Zillow, Trulia, Realtor.com and over 750 other sites to get you the most exposure to your home.
 
 Our company prides ourselves in staying on the cutting edge of technology and if you select me as your real estate agent, you will receive all of this and more. You could never find a more dedicated, energetic, or focused agent to represent you. Please give me a call for a no obligation assessment of your needs\!
+
+&nbsp;
