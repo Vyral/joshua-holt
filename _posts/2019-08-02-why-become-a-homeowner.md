@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Become a Homeowner?
-date: 2019-08-02 17:31:43
+date: 2019-08-02 17:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: wVZkg0PfPrE
 
 Just the other day, a renter I know who’s never been a homeowner asked me an interesting question: Is homeownership still one of the greatest ways to secure one’s financial future? The answer is a resounding yes.&nbsp;
 
-When you’re stepping into the market to buy a home for the first time, it’s easy to fix your attention on price and what your monthly mortgage payment will be and understandably so.&nbsp;
+When you’re stepping into the market to buy a home for the first time, it’s easy to fix your attention on price and what your monthly mortgage payment will be, and understandably so.&nbsp;
 
 Up to this point, you’ve known exactly how much you were going to pay in rent each month, and now you’re trying to figure out how much house you can afford given your monthly budget.
 
