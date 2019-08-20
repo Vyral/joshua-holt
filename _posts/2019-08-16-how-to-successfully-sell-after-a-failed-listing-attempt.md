@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Successfully Sell After a Failed Listing Attempt
-date: 2019-08-16 20:18:29
+date: 2019-08-16 20:18:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -26,7 +26,7 @@ There’s a common misconception among sellers (and even some real estate agents
 
 So what do you do after this has happened to you? What does it take to make your second attempt at listing successful?
 
-First, it’s important to realize that you’re not alone. **Last year in Dane County, 10.68% of single-family home listings and 6.46% of all condo listings expired.&nbsp;**
+First, it’s important to realize that you’re not alone. **Year to Date in Dane County, 10.68% of single-family home listings and 6.46% of all condo listings expired.&nbsp;**
 
 But why?
 
