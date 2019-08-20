@@ -22,7 +22,7 @@ youtube_code: F3CJtjgeIG0
 
 {% include youtube.html %}
 
-There’s a common misconception among sellers (and even some real estate agents) that all it takes to sell a home is to stick a sign in the yard and wait for the offers to roll in. However, this couldn’t be further from the truth. Many sellers who attempt this route end up with expired listings.&nbsp;
+There’s a common misconception among sellers (and even some real estate agents) that all it takes to sell a home is to stick a sign in the yard and wait for the offers to roll in. However, this couldn’t be further from the truth. Many sellers who attempt this route end up with expired listings.
 
 So what do you do after this has happened to you? What does it take to make your second attempt at listing successful?
 
