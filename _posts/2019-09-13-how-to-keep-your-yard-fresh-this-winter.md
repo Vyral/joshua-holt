@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Keep Your Yard Fresh This Winter
-date: 2019-09-13 20:31:58
+date: 2019-09-13 20:31:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -24,7 +24,7 @@ The other day, I was speaking with a friend of mine about their yard and gave th
 
 **1\. &nbsp;Fertilization and weed control.** This helps reduce the stress your lawn will endure over the summer, and weed control will take care of those fall weeds as well.&nbsp;
 
-**2\. Aerate your yard. It should be overseeded as well.** Aeration prepares it for winter and promotes healthy growth for spring. Overseeding helps fill in any bare spots and help your lawn recover from the summer.
+**2\. Aerate your yard. It should be overseeded as well.** Aeration prepares it for winter and promotes healthy growth for spring. Overseeding helps fill in any bare spots and helps your lawn recover from the summer.
 
 **3\. Rake and pick up leaves.** This will reduce possible insect and disease damage over the winter. It’s also a good time to remove any dead or unsafe branches in your yard.
 
