@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/investing-as-first-purchase-youtube.jpg
 youtube_code: r6m5Fe4kGeE
 ---
 
