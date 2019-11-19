@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Thanksgiving Message From Our Team
-date: 2019-11-18 22:20:59
+date: 2019-11-18 22:20:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/thanksgiving-youtube.jpg
-youtube_code: FxHs3QQiNzw
+youtube_code: CU0D6DKTiaA
 ---
 
 {% include youtube.html %}
