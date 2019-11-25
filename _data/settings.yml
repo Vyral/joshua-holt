@@ -19,16 +19,16 @@ client:
   name: Joshua Holt
   title:
   license_number:
-  about_markdown: >
-    I’m Joshua Holt, a licensed full-service REALTOR® with ABR® designation and
-    founder of the Holt Real Estate Team. I work in partnership with Keller
-    Williams Realty, representing buyers and sellers. I’ve proudly served our
-    country, and now I proudly serve the communities throughout Stoughton,
-    Madison, Edgerton, and Monona, Wisconsin, as well as the surrounding area. I
-    love working with Keller Williams, the #1 name in real estate. I’m a
-    multiple graduate of their MAPS BOLD coaching course. I’m also honored to
-    serve on my office’s Agent Leadership Council where I chair the technology
-    committee.
+  about_markdown: >-
+    I’m Joshua Holt, a licensed full-service REALTOR&reg; with ABR&reg;
+    designation and founder of the Holt Real Estate Team. I work in partnership
+    with Keller Williams Realty, representing buyers and sellers. I’ve proudly
+    served our country, and now I proudly serve the communities throughout
+    Stoughton, Madison, Edgerton, and Monona, Wisconsin, as well as the
+    surrounding area. I love working with Keller Williams, the \#1 name in real
+    estate. I’m a multiple graduate of their MAPS BOLD coaching course. I’m also
+    honored to serve on my office’s Agent Leadership Council where I chair the
+    technology committee.
   brand: Holt Real Estate Team
   brokerage: Keller Williams
   market: Madison Area
@@ -38,7 +38,7 @@ client:
   phone2:
   phone2_type:
   email: jdholt@kw.com
-  url: 'http://www.homeswithholt.com'
+  url: 'https://jdholt.kw.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
