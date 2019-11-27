@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About USDA Loans
-date: 2019-11-26 19:32:05
+date: 2019-11-26 19:32:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -27,7 +27,7 @@ If you’re a low- to moderate-income buyer, or just someone without a significa
 
 {% include pullquote.html %}
 
-**You can [click here](https://www.rd.usda.gov/programs-services/single-family-housing-guaranteed-loan-program){: target="_blank"} to learn more about and for access to a loan availability map showing what properties near you may qualify.&nbsp;**
+**You can [click here](https://www.rd.usda.gov/programs-services/single-family-housing-guaranteed-loan-program){: target="_blank"} to learn more and for access to a loan availability map showing what properties near you may qualify.&nbsp;**
 
 Homes located within Stoughton city limits, for example, are ineligible, but areas just to the north (near Madison) do qualify—as do properties in the Village of McFarland, the Village of Oregon, Deforest/Windsor/ Mount Horeb, Cambridge, and many other municipalities.&nbsp;
 
