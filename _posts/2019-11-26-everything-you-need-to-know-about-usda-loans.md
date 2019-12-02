@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/usda-youtube.jpg
+youtube_alternate_image: /uploads/unnamed.jpg
 youtube_code: PXuzEEE_acU
 ---
 
