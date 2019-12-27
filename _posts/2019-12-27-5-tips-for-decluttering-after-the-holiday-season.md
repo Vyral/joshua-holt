@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Decluttering After the Holiday Season
-date: 2019-12-27 16:53:13
+date: 2019-12-27 16:53:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -29,7 +29,7 @@ I hope you all had a wonderful holiday and are excited for the new year. If you�
 
 **3\. Organize gift wrap.** It can be very easy for rolls of gift wrap to get spread out and take up a lot of room. Now is a great time to go through and organize that gift wrap to make sure you’re not holding on to scraps of paper that won’t help you in the future. Maybe you could repurpose those for a craft project or something else.
 
-**4\. Recycle.** Make sure that you’re not just taking all of your extra gift wrap and trimmings in the trash. A lot of this stuff is recycled material and you want to properly dispose of it according to your local recycling priorities.
+**4\. Recycle.** Make sure that you’re not just tossing all of your extra gift wrap and trimmings in the trash. A lot of this stuff is recycled material and you want to properly dispose of it according to your local recycling priorities.
 
 **5\. Prepare for next year.** You may have things that you kept in storage and didn’t pull out for the holidays. I like to take this time of year to evaluate the inventory I have and see if any of them are ones I intend to hold onto in the future. It’s also just a good time to organize your stuff so that you know where everyone is.&nbsp;
 
