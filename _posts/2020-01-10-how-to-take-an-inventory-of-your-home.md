@@ -32,7 +32,7 @@ That being said, I have two main tips for you to remember when doing your home i
 
 First, **use your smartphone to go room by room and take pictures and video of every important item you want to catalog.**&nbsp;
 
-After you’re done doing that, **use a cloud-based service to upload and store your photos and video.** In my opinion, Google Drive works best for this. If you already have a Google account, then it’s free. It has quite a bit of storage, and you can also utilize Google Spreadsheet to further itemize your possessions.&nbsp;
+After you’re done doing that, **use a cloud-based service to upload and store your photos and video.** In my opinion, Google Drive works best for this. If you already have a Google account, then it’s free. It has quite a bit of storage, and you can also utilize Google Sheets to further itemize your possessions.&nbsp;
 
 Like I said, the last thing you want to do in the event of a home disaster is to try to remember all the items you owned and estimate what they were worth.&nbsp;
 
