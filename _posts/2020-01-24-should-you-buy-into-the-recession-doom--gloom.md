@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2020-predictions-youtube.jpg
-youtube_code: w9H3Uap3g2g
+youtube_code: wxqFzJjutAw
 ---
 
 {% include youtube.html %}
