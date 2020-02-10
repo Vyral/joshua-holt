@@ -20,7 +20,7 @@ youtube_code: mjShmSujvks
 
 {% include youtube.html %}
 
-Most markets around the country have been experiencing historically low inventory, meaning that there just aren’t that many homes for sale in first-time homebuyers’ price ranges. It’s not that uncommon for a first-timer to end up in competition with one or even 10 other buyers, so we’ve had to become pretty crafty and strategic to make our buyers’ offers stand out to the seller. To help me lay out some potential roadmaps to success, Joe Long from Guild Mortgage joins me to discuss some of the strategies that he has seen work for homebuyers in our tricky seller’s market.
+Most markets around the country have been experiencing historically low inventory, meaning that there just aren’t that many homes for sale in first-time homebuyers’ price ranges. It’s not that uncommon for a first-timer to end up in competition with one or even 10 other buyers, so we’ve become pretty crafty and strategic to make our buyers’ offers stand out to the seller. To help me lay out some potential roadmaps to success, Joe Long from Guild Mortgage joins me to discuss some of the strategies that he has seen work for homebuyers in our tricky seller’s market.
 
 **Feel free to follow along in the video above or else use the timestamps below to navigate the discussion in depth at your leisure:**
 
