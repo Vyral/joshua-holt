@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategies to Help You Win in the Market
-date: 2020-02-07 22:19:38
+date: 2020-02-07 22:19:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/strategies-to-win-in-the-market-youtube.jpg
-youtube_code: mjShmSujvks
+youtube_code: ws5AvM84DJU
 ---
 
 {% include youtube.html %}
