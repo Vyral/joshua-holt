@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/strategies-to-win-in-the-market-youtube.jpg
-youtube_code: ws5AvM84DJU
+youtube_code: OBLu6GZNH_w
 ---
 
 {% include youtube.html %}
