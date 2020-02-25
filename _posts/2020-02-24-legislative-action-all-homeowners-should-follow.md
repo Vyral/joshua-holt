@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legislative Action All Homeowners Should Follow
-date: 2020-02-24 22:45:41
+date: 2020-02-24 22:45:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -33,4 +33,4 @@ Earlier this month, I had the opportunity to go to our state capitol building fo
 
 &nbsp;6:20 - Wrapping things up&nbsp;
 
-If you’re interested in discussing these important topics in more detail, please feel free to reach out by phone or email. I’d love having the opportunity to inform the homeowners in our great state and gain different perspectives on these issues.&nbsp;
+If you’re interested in discussing these important topics in more detail, please feel free to reach out by phone or email. I’d love the opportunity to inform the homeowners in our great state and gain different perspectives on these issues.&nbsp;
