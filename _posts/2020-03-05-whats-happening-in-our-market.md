@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in Our Market
-date: 2020-03-05 22:09:57
+date: 2020-03-05 22:09:00
 tags:
   - Market Update
 excerpt: >-
@@ -31,7 +31,7 @@ After 2013, the pace of home value recovery increased rapidly, but now it’s sl
 
 Based on the average prediction of where the market’s headed in the next five years, if you purchased a $250,000 house now, it would appreciate by $47,500 by January 2025—a nice, slow pace.&nbsp;
 
-You need a place to live no matter what, and you can either pay your landlord’s rent or your mortgage. Only one of you is getting that appreciation, so you might as well take advantage of that equity. Many people lost a lot of money during the previous recession, but the No.1 reason people buy houses isn’t that it’s a financial investment but because they want to control where they live.&nbsp;
+You need a place to live no matter what, and you can either pay your landlord’s rent or your mortgage. Only one of you is getting that appreciation, so you might as well take advantage of that equity. Many people lost a lot of money during the previous recession, but the No. 1 reason people buy houses isn’t that it’s a financial investment but because they want to control where they live.&nbsp;
 
 Those who lost value starting in 2008 got it all back by 2017. If you bought a home and something were to go wrong, you’d be fine long-term. You’ll still pay off your mortgage and come out with a lot of equity. If nothing goes wrong, you’ll come out *way* ahead.&nbsp;
 
