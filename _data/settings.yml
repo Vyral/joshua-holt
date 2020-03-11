@@ -41,7 +41,8 @@ client:
   url: 'http://homeswithholt.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: >-
+    https://www.onlinehomeestimate.com/lp/1629C48F-ADF4-442D-8507-A6F9F9BD6171/d3p
   second_CTA_text: Home Search
   second_CTA_URL: 'https://jdholt.kw.com/'
 sidebar_CTA:
@@ -80,8 +81,10 @@ socials:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/Joshua-D-Holt/'
   trulia_url:
-  yelp_url: https://www.yelp.com/biz/holt-real-estate-team-keller-williams-realty-madison
-  podcast_url: https://podcasts.apple.com/us/podcast/madison-area-real-estate-podcast-with-joshua-holt/id1498133072
+  yelp_url: >-
+    https://www.yelp.com/biz/holt-real-estate-team-keller-williams-realty-madison
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/madison-area-real-estate-podcast-with-joshua-holt/id1498133072
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
