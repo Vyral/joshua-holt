@@ -52,7 +52,8 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: /homevalue/
+    CTA_url: >-
+      https://www.onlinehomeestimate.com/lp/1629C48F-ADF4-442D-8507-A6F9F9BD6171/d3p
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
