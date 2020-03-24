@@ -31,7 +31,7 @@ Whether you’re buying or selling, if you’re concerned about the coronavirus�
 
 If you’re a seller, one thing we do know is that the median home price in Dane County is $285,000, so if your home is valued above that or the $500,000 mark, I recommend listing it sooner rather than later. We still have limited inventory and there are plenty of buyers, so strike while the iron is hot.&nbsp;
 
-On the flip side, because of the volatility we’re seeing in the stock market due to the coronavirus, **mortgage rates have dropped to historic lows.** This is making the biggest impact below the $285,000 price point. Inventory is already tight in this market, and low interest rates will bring out more buyers and increase competition.&nbsp;
+On the flip side, because of the volatility we’re seeing in the stock market due to the coronavirus, mortgage rates remain lower than last year. This is making the biggest impact below the $285,000 price point. Inventory is already tight in this market, and low interest rates will bring out more buyers and increase competition.&nbsp;
 
 What we don’t want to see happen is sellers thinking now is a great time to raise prices, because that might not play out how you imagine it. Like I said, I recommend first giving me a call so we can find out what your home is worth, make a plan, and capture the attention of all the buyers out there taking advantage of these low interest rates.&nbsp;
 
