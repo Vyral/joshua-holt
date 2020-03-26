@@ -1,11 +1,11 @@
 audit_header: false
-title: Madison Area Real Estate Journal
+title: 'Joshua Holt: Madison Real Estate Agent Video Blog'
 description: >-
-  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  Our mission at Holt Real Estate Team is to be your best resource for -- MARKET --
   real estate advice. Whether you are a buyer, seller, or investor, our team of
   professionals can answer any questions you might have about real estate. If
   you are looking to buy or sell a home, you can get all the information and the
-  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  latest updates, tips, and tricks from The Holt Real Estate Team, your
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
@@ -44,7 +44,7 @@ CTAs:
   first_CTA_URL: >-
     https://www.onlinehomeestimate.com/lp/1629C48F-ADF4-442D-8507-A6F9F9BD6171/d3p
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://jdholt.kw.com/'
+  second_CTA_URL: 'https://jdholt.kw.com/search/WI/Madison'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -59,7 +59,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://jdholt.kw.com/'
+    CTA_url2: 'https://jdholt.kw.com/search/WI/Madison'
 lender:
   show_section: false
   header_text: Preferred Lender

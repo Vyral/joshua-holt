@@ -1320,10 +1320,10 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #232628;
+  border: none;
   border-radius: 0;
-  min-height: 52px;
-  background: #ffffff;
+  min-height: 65px;
+  background: transparent;
   width: 100%; }
 
 .navbar-andross .navbar-brand {
@@ -1335,30 +1335,32 @@ html[xmlns] .flexslider .slides {
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
-  margin-bottom: 0px;
-  transition: all 0.15s ease-out 0s; }
+  margin-right: 10px; }
 
 .navbar-left > li > a {
-  background: rgba(0, 0, 0, 0);
-  color: black;
+  background: #374c9e;
+  color: #fff;
+  padding: 1.3rem 2rem;
+  margin-top: 12px;
   text-transform: capitalize;
   font-size: 2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  border: 2px solid #374c9e; }
   .navbar-left > li > a:hover {
-    background: #eeeeee;
-    color: #2a3a78; }
+    background: #eee;
+    color: #374c9e;
+    border: 2px solid #374c9e; }
   .navbar-left > li > a:active {
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem);
-    text-decoration: none;
-    color: #374c9e; }
+    box-shadow: 0 0 0 #374c9e; }
   .navbar-left > li > a:focus {
     text-decoration: none;
     color: #374c9e; }
 
 .fa-bars {
   color: #374c9e; }
+
+.navbar-toggle {
+  margin-top: 20px; }
 
 .phone, .fa-phone {
   color: #fff; }
@@ -1368,12 +1370,16 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .dropbtn {
-  color: black;
+  color: #374c9e;
   background-color: #ffffff;
   font-weight: 300;
   font-size: 20px;
-  border: none;
-  text-transform: capitalize; }
+  margin-top: 12px;
+  border: 1px solid #374c9e;
+  text-transform: capitalize;
+  letter-spacing: normal; }
+  .dropbtn:active {
+    color: #fff; }
 
 .dropdown {
   position: relative;
@@ -1400,36 +1406,52 @@ html[xmlns] .flexslider .slides {
   border: 0px solid #374c9e; }
 
 @media(max-width: 347px) {
+  .dropbtn {
+    padding: 6px 16px;
+    width: 100%; } }
+@media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
     padding-left: 5px; }
 
   .navbar-header a.navbar-brand {
     width: 0;
+    overflow: hidden;
     display: none;
-    opacity: 0; }
+    opacity: 0; } }
+.scroll-nav-color {
+  background: #232628;
+  -webkit-animation: 0.5s fadeNavigation ease-in-out;
+          animation: 0.5s fadeNavigation ease-in-out;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
-  .dropbtn {
-    padding: 6px 16px;
-    width: 100%; } }
-.nav-logo {
-  float: left !important;
-  max-width: 75px;
-  margin: 5px; }
+@-webkit-keyframes fadeNavigation {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    background: rgba(35, 38, 40, 0); }
+  100% {
+    background: #232628;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 
-.navbar-collapse.in {
-  overflow: visible; }
+@keyframes fadeNavigation {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    background: rgba(35, 38, 40, 0); }
+  100% {
+    background: #232628;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
+.brand-color {
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  background: #232628;
+  -webkit-animation: 0.3s fadein ease-in-out;
+          animation: 0.3s fadein ease-in-out; }
 
-@media (max-width: 760px) {
-  .nav-logo {
-    display: none; }
-
-  .hero-img {
-    height: 300px; }
-
-  .nav-logo-small {
-    max-width: 200px;
-    margin-top: -15px; } }
 .navbar-andross-bottom {
   background: #232628;
   color: #fff;
@@ -1661,7 +1683,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  font-weight: 200;
+  font-weight: 600;
   margin: 1rem 0; }
 
 h1 {
@@ -2570,11 +2592,13 @@ form select {
   margin-top: 20px; }
 
 .cta {
-  background: rgba(0, 0, 0, 0);
-  color: #123456;
+  background: #fff;
+  color: #374c9e;
   text-transform: capitalize;
   font-size: 2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  margin-top: 12px;
+  border: 1px solid #374c9e; }
   .cta:hover {
     background: #eeeeee;
     color: #2a3a78; }
