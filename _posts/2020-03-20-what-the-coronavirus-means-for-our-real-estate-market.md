@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/coronavirus-youtube.jpg
-youtube_code: 4NF3alplKkQ
+youtube_code: uTJ8S-vgDJ0
 ---
 
 {% include youtube.html %}
