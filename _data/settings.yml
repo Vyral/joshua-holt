@@ -11,10 +11,10 @@ show_custom_links: true
 custom_links:
   - title: About
     url: /about/
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Testimonials
+    url: '#testimonials'
 client:
   name: Joshua Holt
   title:
@@ -32,7 +32,7 @@ client:
   brand: Holt Real Estate Team
   brokerage: Keller Williams
   market: Madison Area
-  address: '200 River Pl 130 Monona, WI 53716'
+  address: '200 River Pl 130 Madison, WI 53716'
   phone: 608-345-6594
   phone_type:
   phone2:

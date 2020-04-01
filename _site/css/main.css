@@ -2483,6 +2483,13 @@ table tr, table td {
   top: -45px;
   right: 20px; }
 
+.fa-quote-left {
+  color: #555555;
+  float: left;
+  position: relative;
+  top: -45px;
+  left: 20px; }
+
 .testimonial {
   font-size: 1.8rem;
   font-family: serif;
@@ -2498,15 +2505,18 @@ table tr, table td {
   color: #353535;
   padding: 3rem 10rem; }
 
+.testimonial-margin {
+  padding-top: 128px; }
+
 .testimonial-navigation {
   padding: 10px;
-  display: flex;
+  display: inline-flex;
   width: 100%;
-  justify-content: space-between; }
+  justify-content: center; }
   .testimonial-navigation a {
     color: #374c9e;
     font-size: 4rem;
-    position: relative;
+    position: unset;
     z-index: 5;
     top: 250px;
     cursor: pointer;
@@ -2655,6 +2665,12 @@ form select {
 .testimonial-author {
   color: #b40101;
   margin-top: -20px; }
+
+#testimonial {
+  margin-top: 5rem; }
+
+.testimonial-margin {
+  margin-top: 5rem; }
 
 .recruiting {
   text-align: center; }
