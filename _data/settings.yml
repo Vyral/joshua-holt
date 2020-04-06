@@ -1,9 +1,9 @@
 audit_header: false
 title: 'Joshua Holt: Madison Real Estate Agent Video Blog'
 description: >-
-  Our mission at Holt Real Estate Team is to be your best resource for -- MARKET --
-  real estate advice. Whether you are a buyer, seller, or investor, our team of
-  professionals can answer any questions you might have about real estate. If
+  Our mission at Holt Real Estate Team is to be your best resource for -- MARKET
+  -- real estate advice. Whether you are a buyer, seller, or investor, our team
+  of professionals can answer any questions you might have about real estate. If
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from The Holt Real Estate Team, your
   professional -- MARKET -- Real Estate Agents.
@@ -31,7 +31,7 @@ client:
     technology committee.
   brand: Holt Real Estate Team
   brokerage: Keller Williams
-  market: Madison, WI
+  market: 'Madison, WI'
   address: '200 River Pl 130 Madison, WI 53716'
   phone: 608-345-6594
   phone_type:
