@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Madison Area Real Estate Podcast with Joshua Holt</title>
+    <title>Madison, WI Real Estate Podcast with Joshua Holt</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison, WI Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joshua Holt</managingEditor>
-    <lastBuildDate>2020-04-01 15:53:03 -0500</lastBuildDate>
+    <lastBuildDate>2020-04-13 16:42:18 -0500</lastBuildDate>
     <media:copyright>Joshua Holt</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>jdholt@kw.com</itunes:email>
@@ -19,11 +19,54 @@
     <itunes:author>Joshua Holt</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Madison Area Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Madison, WI Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison, WI Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>5 Sweet Tax Deductions When Selling a Home</title>
+        <link>http://localhost:4000/5-sweet-tax-deductions-when-selling-a-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2020-04-03 13:50:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/5+Sweet+Tax+Deductions+When+Selling+a+Home.mp4</guid>
+        <description>
+
+You may be wondering if there are tax deductions you can take when selling a home. The answer is: You bet!
+
+Sure, you may remember that 2018’s new tax code—aka the Tax Cuts and Jobs Act—changed some rules for homeowners. Rest assured that if you sold your home last year (or are planning to in the future), your tax deductions when you file with the IRS can still amount to sizable savings.
+
+Here are five different tax deductions you can take as a home seller:
+
+1. Selling costs. These deductions are allowed as long as they are directly tied to the sale of the home and you lived in the home for at least two out of the five years preceding the sale. Another caveat: The home must be a principal residence and not an investment property. These costs can include legal fees, title fees, advertising costs, commissions, and perhaps even staging costs. Just remember that you can’t deduct these costs in the same way as, say, mortgage interest. Instead, you subtract them from the sale price of your home, which in turn positively affects your capital gains tax.
+
+“I recommend consulting with your tax advisor for further clarification.”
+
+2. Home improvements and repairs. If you renovated a few rooms to make your home more marketable (so you could fetch a higher sale price), you can deduct those upgrade costs as well. This includes painting the house or repairing the roof or water heater. There’s a catch, and it all boils down to timing: You can deduct those expenses as selling costs as long as they were made within 90 days of the closing.
+
+3. Property taxes. This deduction is capped at $10,000. So, if you were dutifully paying your property taxes up to the point when you sold your home, you can deduct the amount you paid in property taxes this year up to $10,000.
+
+4. Mortgage interest. As with property taxes, you can deduct the interest on your mortgage for the portion of the year you owned your home. Just remember that under the 2018 tax code, new homeowners (and home sellers) can deduct the interest on up to only $750,000 of mortgage debt. That is, unless you obtained your mortgage prior to December 15, 2017. If you did, you can deduct up to $1,000,000.
+
+Note that the mortgage interest and property taxes are itemized deductions. This means that, in order for it to work in your favor, all of your itemized deductions need to be greater than the new standard deduction.
+
+5. Capital gains tax for sellers. The rule isn’t technically a deduction (it’s an exclusion), but you’re still going to like it. As a reminder, capital gains are your profits from selling your home—whatever cash is left after paying off your expenses, plus any outstanding mortgage debt. These profits are taxed as income, but here’s the good news: You can exclude up to $250,000 of the capital gains from the sale if you’re single, and $500,000 if married. The only big catch is that you must have lived in your home at least two of the past five years.
+
+If you want further clarification on these five sweet tax deductions, I recommend you consult with your tax advisor. If you have any real estate-related questions for me in the meantime, don’t hesitate to reach out via phone or email. I’d love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/5+Sweet+Tax+Deductions+When+Selling+a+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/5+Sweet+Tax+Deductions+When+Selling+a+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Selling a home offers many different benefits from a tax perspective. Here are five of them.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>Selling a home offers many different benefits from a tax perspective. Here are five of them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What the Coronavirus Means for Our Real Estate Market</title>
         <link>http://localhost:4000/what-the-coronavirus-means-for-our-real-estate-market.html</link>
@@ -58,7 +101,7 @@ Moving forward, we’ll keep an eye on this situation. If you have any questions
         <itunes:subtitle>With the coronavirus dominating the news feed lately, I’ll fill you in on how it’s impacting our market.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>With the coronavirus dominating the news feed lately, I’ll fill you in on how it’s impacting our market.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -97,7 +140,7 @@ If you have any lending questions, feel free to give Joe a call at (608) 729-537
         <itunes:subtitle>Home appreciation is slowing down, but this return to normalcy is a good thing.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Home appreciation is slowing down, but this return to normalcy is a good thing.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -134,7 +177,7 @@ If you’re interested in discussing these important topics in more detail, plea
         <itunes:subtitle>The Realtor® and Government Day event at our state capitol building opened my eyes. Here’s what property-related legislation is being discussed and how Realtors® are going to bat for homeowners.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>The Realtor® and Government Day event at our state capitol building opened my eyes. Here’s what property-related legislation is being discussed and how Realtors® are going to bat for homeowners.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -171,7 +214,7 @@ If you’re in the market to buy a home and you’d like to learn more about how
         <itunes:subtitle>Today I’m joined by Joe Long from Guild Mortgage to discuss some of the strategies that he has seen work for homebuyers in the challenging market we’ve been facing.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Today I’m joined by Joe Long from Guild Mortgage to discuss some of the strategies that he has seen work for homebuyers in the challenging market we’ve been facing.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -208,7 +251,7 @@ So if you’re ready to buy or sell real estate here in the Madison area, I’d 
         <itunes:subtitle>Here’s what you need to know about the 2020 real estate market, and whether there will be a ‘perfect time’ to buy or sell.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Here’s what you need to know about the 2020 real estate market, and whether there will be a ‘perfect time’ to buy or sell.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -247,7 +290,7 @@ If you have more questions about this or any real estate topic, don’t hesitate
         <itunes:subtitle>It’s time for you to take an inventory of your home, and here’s how you can get started.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>It’s time for you to take an inventory of your home, and here’s how you can get started.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -284,7 +327,7 @@ If you have any questions for me about this list or real estate in general, don�
         <itunes:subtitle>Start your year off right with a little less holiday clutter in 2020. Here are five tips that will help you out.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Start your year off right with a little less holiday clutter in 2020. Here are five tips that will help you out.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -307,7 +350,7 @@ From all of us here at the Holt Real Estate Team: We wish you and your family th
         <itunes:subtitle>We wish you and your family the very best this holiday season.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>We wish you and your family the very best this holiday season.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -342,7 +385,7 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:subtitle>What is the USDA loan and what makes it such a great deal for those who qualify? Let’s discuss.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>What is the USDA loan and what makes it such a great deal for those who qualify? Let’s discuss.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -365,7 +408,7 @@ I wanted to take a moment today to say thank you. Thank you to all of you wonder
         <itunes:subtitle>We couldn’t be more grateful for all of your support this year. Here’s our message to all of you this Thanksgiving season.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>We couldn’t be more grateful for all of your support this year. Here’s our message to all of you this Thanksgiving season.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -400,7 +443,7 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:subtitle>Is it a good idea for those who haven’t bought their first home yet to buy a rental property? Actually, it may be, and here are five reasons why.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Is it a good idea for those who haven’t bought their first home yet to buy a rental property? Actually, it may be, and here are five reasons why.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -435,7 +478,7 @@ If you have any questions about selling your home or about real estate in genera
         <itunes:subtitle>Are you planning to sell your home this fall? If so, these four tips will give your home a tasteful and pleasant feel.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Are you planning to sell your home this fall? If so, these four tips will give your home a tasteful and pleasant feel.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -478,7 +521,7 @@ If you have any questions for me about these tips or about anything else related
         <itunes:subtitle>Even though fall and winter are right around the corner, it's a great time to start preparing your yard for next year. Here are eight tips to help you do that.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Even though fall and winter are right around the corner, it's a great time to start preparing your yard for next year. Here are eight tips to help you do that.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -517,7 +560,7 @@ If you see value in having an agent like myself represent you in the purchase of
         <itunes:subtitle>Why do you need the help of a Realtor to buy a new construction property? Today I’ll explain.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Why do you need the help of a Realtor to buy a new construction property? Today I’ll explain.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -558,7 +601,7 @@ As always, if you have any other questions or would like more information, feel 
         <itunes:subtitle>If your listing expired once, there are a few steps you and your agent must take to ensure your second try is more successful. Find out what those steps are today.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>If your listing expired once, there are a few steps you and your agent must take to ensure your second try is more successful. Find out what those steps are today.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -597,7 +640,7 @@ If you have any questions about our local market or real estate in general or if
         <itunes:subtitle>Is homeownership still one of the greatest ways to secure one’s financial future? It absolutely is and today I’ll discuss just a few reasons why.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Is homeownership still one of the greatest ways to secure one’s financial future? It absolutely is and today I’ll discuss just a few reasons why.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -648,7 +691,7 @@ If you have any questions about the area’s real estate market or if there’s 
         <itunes:subtitle>We’re halfway through the year, which makes it a good time to bring you an update on our summer market.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>We’re halfway through the year, which makes it a good time to bring you an update on our summer market.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -689,7 +732,7 @@ If you have any questions about today’s topic or about the local real estate m
         <itunes:subtitle>If you currently currently own a home and are thinking of buying a new one, the process can be difficult to navigate. Here are a few tips to help.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>If you currently currently own a home and are thinking of buying a new one, the process can be difficult to navigate. Here are a few tips to help.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -728,7 +771,7 @@ If you’re thinking about selling your home in today’s market and you have an
         <itunes:subtitle>What can you do to make sure that you’re truly creating the best first impression for your home? Find out today.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>What can you do to make sure that you’re truly creating the best first impression for your home? Find out today.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -765,7 +808,7 @@ If you have any questions or comments about downsizing, don’t hesitate to reac
         <itunes:subtitle>How do know if it’s time to downsize your home? Learn the signs right here.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>How do know if it’s time to downsize your home? Learn the signs right here.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -800,7 +843,7 @@ If you have any questions about today’s topic or if you’re in need of a real
         <itunes:subtitle>What’s the difference between hiring a real estate professional to help you sell your home and just selling it by yourself? Today I’ll discuss my answer to this question.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>What’s the difference between hiring a real estate professional to help you sell your home and just selling it by yourself? Today I’ll discuss my answer to this question.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -835,7 +878,7 @@ If you’re looking to purchase a home in the Greater Madison area, I’d be hap
         <itunes:subtitle>Realizing the dream of homeownership means navigating the purchase process adeptly. Today’s four buyer tips will help you do so.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>Realizing the dream of homeownership means navigating the purchase process adeptly. Today’s four buyer tips will help you do so.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -870,7 +913,7 @@ Making the most out of our market, however, depends on who you have working as y
         <itunes:subtitle>What do the latest stats tell us about our market? Let’s find out today.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>What do the latest stats tell us about our market? Let’s find out today.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -905,12 +948,12 @@ I’m excited to keep you updated on what’s happening in the Madison area!
         <itunes:subtitle>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
         <itunes:author>Joshua Holt</itunes:author>
         <itunes:summary>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Joshua Holt</copyright>
     <media:credit role="author">Joshua Holt</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison Area Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison, WI Real Estate Agents.</media:description>
   </channel>
 </rss>
