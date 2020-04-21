@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Economy After COVID-19
-date: 2020-04-20 20:09:09
+date: 2020-04-20 20:09:00
 tags:
   - Market Update
 excerpt: >-
@@ -29,8 +29,10 @@ When looking at GDP (the measure of our country’s economic health), a survey o
 
 {% include pullquote.html %}
 
-With this historical analysis in mind, many business owners are also optimistically anticipating a bright economic return. A recent PricewaterhouseCoopers survey captures this confidence, **noting 66% of surveyed business owners believe their companies will return to normal business rhythms within a month of the pandemic passing**, and 90% feel they should be back to normal operation one to three months after:
+With this historical analysis in mind, many business owners are also optimistically anticipating a bright economic return. A recent PricewaterhouseCoopers survey captures this confidence, **noting 66% of surveyed business owners believe their companies will return to normal business rhythms within a month of the pandemic passing**, and 90% feel they should be back to normal operation one to three months afterward.
 
 From expert financial institutions to business leaders across the country, we can clearly see that a quick return to normal once the current crisis subsides is not too far away. In essence, this pandemic won’t last forever, and we will get back to growth mode—we’ve got this.&nbsp;
 
 Lives and businesses are being impacted by COVID-19, but **experts do see a light at the end of the tunnel.** As the economy slows down due to the health crisis, we can take the guidance and advice from experts that this too will pass.
+
+If you have any questions about real estate, please feel free to reach out via phone or email. We would love to help you.
