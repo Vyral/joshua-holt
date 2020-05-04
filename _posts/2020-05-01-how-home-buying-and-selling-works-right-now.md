@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Buying and Selling Works Right Now
-date: 2020-05-01 19:59:48
+date: 2020-05-01 19:59:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -37,4 +37,4 @@ How does the process of buying or selling a home look during the COVID-19 pandem
 
 6:50- Wrapping things up
 
-If you have any further questions for me about buying a home, selling a home, or real estate in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+If you have any further questions for me about buying, selling, or real estate in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
