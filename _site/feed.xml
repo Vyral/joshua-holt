@@ -5,9 +5,73 @@
     <description>Our mission at Holt Real Estate Team is to be your best resource for Madison, WI real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Holt Real Estate Team, your professional Madison, WI Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Apr 2020 16:42:18 -0500</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2020 16:42:18 -0500</lastBuildDate>
+    <pubDate>Thu, 07 May 2020 15:51:21 -0500</pubDate>
+    <lastBuildDate>Thu, 07 May 2020 15:51:21 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>How Home Buying and Selling Works Right Now</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nkbvfuErRWg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How does the process of buying or selling a home look during the COVID-19 pandemic? I’ve been hearing that question a lot lately, and I’m going to dive into the topic today so that you have a clear, detailed answer. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feel free to follow along in the video above or use the timestamps I’ve provided below to navigate the discussion at your leisure:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;0:25- The first question home sellers should be asking themselves before deciding to take the leap&lt;/p&gt;
+
+&lt;p&gt;1:15- A few more factors for home sellers to consider in order to enhance their experience&lt;/p&gt;
+
+&lt;p&gt;3:15- Advice for nervous buyers who are hesitant to purchase right now&lt;/p&gt;
+
+&lt;p&gt;5:05- How to embrace a more digital real estate market with the proper plan&lt;/p&gt;
+
+&lt;p&gt;5:55- A note about coronavirus addendums for both buyers and sellers&lt;/p&gt;
+
+&lt;p&gt;6:50- Wrapping things up&lt;/p&gt;
+
+&lt;p&gt;If you have any further questions for me about buying, selling, or real estate in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2020 14:59:00 -0500</pubDate>
+        <link>http://localhost:4000/how-home-buying-and-selling-works-right-now.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-home-buying-and-selling-works-right-now.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Economy After COVID-19</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/J_dOEpebjcc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The human toll of the coronavirus pandemic may forever change families, yet the economic impact will rebound with a cycle of downturn followed by economic expansion, as we’ve seen play out in the U.S. economy many times before.&lt;/p&gt;
+
+&lt;p&gt;Today I’d like to share what leading experts and current research indicate about the economic impact we’ll likely see as a result of COVID-19. Let’s start with a forecast of the U.S. Gross Domestic Product (GDP).&lt;/p&gt;
+
+&lt;p&gt;When looking at GDP (the measure of our country’s economic health), a survey of three leading financial institutions projects a sharp decline followed by a steep rebound in the second half of this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A recent study from John Burns Consulting notes that past pandemics have created V-shaped economic recoveries, and had minimal impact on housing prices.&lt;/strong&gt; This certainly gives us hope and optimism regarding what is to come as this crisis passes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This won’t last forever, and we will get back to growth mode—we’ve got this.%20http://localhost:4000/our-economy-after-covid-19.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This won’t last forever, and we will get back to growth mode—we’ve got this.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With this historical analysis in mind, many business owners are also optimistically anticipating a bright economic return. A recent PricewaterhouseCoopers survey captures this confidence, &lt;strong&gt;noting 66% of surveyed business owners believe their companies will return to normal business rhythms within a month of the pandemic passing&lt;/strong&gt;, and 90% feel they should be back to normal operation one to three months afterward.&lt;/p&gt;
+
+&lt;p&gt;From expert financial institutions to business leaders across the country, we can clearly see that a quick return to normal once the current crisis subsides is not too far away. In essence, this pandemic won’t last forever, and we will get back to growth mode—we’ve got this. &lt;/p&gt;
+
+&lt;p&gt;Lives and businesses are being impacted by COVID-19, but &lt;strong&gt;experts do see a light at the end of the tunnel.&lt;/strong&gt; As the economy slows down due to the health crisis, we can take the guidance and advice from experts that this too will pass.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about real estate, please feel free to reach out via phone or email. We would love to help you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Apr 2020 15:09:00 -0500</pubDate>
+        <link>http://localhost:4000/our-economy-after-covid-19.html</link>
+        <guid isPermaLink="true">http://localhost:4000/our-economy-after-covid-19.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>5 Sweet Tax Deductions When Selling a Home</title>
@@ -247,48 +311,6 @@
         <guid isPermaLink="true">http://localhost:4000/5-tips-for-decluttering-after-the-holiday-season.html</guid>
         
         <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Seasons Greetings from the Holt Real Estate Team</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yWBAepuGbbw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;From all of us here at the Holt Real Estate Team: We wish you and your family the very best this holiday season. This is the time you should spend with your family and friends, and give joy and thanks for all that you have, so enjoy it! Speaking of giving thanks: We appreciate all of your support this year, and we love being able to help people make their real estate dreams come true. Here’s to helping even more of you in 2020! Thank you all so much, and happy holidays!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Dec 2019 14:00:00 -0600</pubDate>
-        <link>http://localhost:4000/seasons-greetings-from-the-holt-real-estate-team.html</link>
-        <guid isPermaLink="true">http://localhost:4000/seasons-greetings-from-the-holt-real-estate-team.html</guid>
-        
-        <category>Real Estate</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Everything You Need to Know About USDA Loans</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PXuzEEE_acU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you’re a low- to moderate-income buyer, or just someone without a significant down payment saved up, then a USDA loan might be the perfect path to homeownership for you. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The USDA loan program allows homeowners to purchase a qualifying rural property for no money down.&lt;/strong&gt; Like any mortgage option, you will need to meet certain criteria, though. The primary qualifying factors are your income, for which limits will vary by area, as well as the location of the property.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The bottom line is that the USDA loan is a great option for those savvy enough to take advantage.%20http://localhost:4000/everything-you-need-to-know-about-usda-loans.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The bottom line is that the USDA loan is a great option for those savvy enough to take advantage.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You can &lt;a href=&quot;https://www.rd.usda.gov/programs-services/single-family-housing-guaranteed-loan-program&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt; to learn more and for access to a loan availability map showing what properties near you may qualify. &lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Homes located within Stoughton city limits, for example, are ineligible, but areas just to the north (near Madison) do qualify—as do properties in the Village of McFarland, the Village of Oregon, Deforest/Windsor/ Mount Horeb, Cambridge, and many other municipalities. &lt;/p&gt;
-
-&lt;p&gt;The bottom line is that the USDA loan is a great option for those savvy enough to take advantage. &lt;/p&gt;
-
-&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Nov 2019 13:32:00 -0600</pubDate>
-        <link>http://localhost:4000/everything-you-need-to-know-about-usda-loans.html</link>
-        <guid isPermaLink="true">http://localhost:4000/everything-you-need-to-know-about-usda-loans.html</guid>
-        
-        <category>Home Buyer Tips</category>
         
         
       </item>

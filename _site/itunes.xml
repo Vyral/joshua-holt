@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison, WI Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joshua Holt</managingEditor>
-    <lastBuildDate>2020-04-13 16:42:18 -0500</lastBuildDate>
+    <lastBuildDate>2020-05-07 15:51:21 -0500</lastBuildDate>
     <media:copyright>Joshua Holt</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,86 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Holt Real Estate Team - your professional Madison, WI Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How Home Buying and Selling Works Right Now</title>
+        <link>http://localhost:4000/how-home-buying-and-selling-works-right-now.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2020-05-01 14:59:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/How+Home+Buying+and+Selling+Works+Right+Now.mp4</guid>
+        <description>
+
+How does the process of buying or selling a home look during the COVID-19 pandemic? I’ve been hearing that question a lot lately, and I’m going to dive into the topic today so that you have a clear, detailed answer. 
+
+Feel free to follow along in the video above or use the timestamps I’ve provided below to navigate the discussion at your leisure:
+
+0:25- The first question home sellers should be asking themselves before deciding to take the leap
+
+1:15- A few more factors for home sellers to consider in order to enhance their experience
+
+3:15- Advice for nervous buyers who are hesitant to purchase right now
+
+5:05- How to embrace a more digital real estate market with the proper plan
+
+5:55- A note about coronavirus addendums for both buyers and sellers
+
+6:50- Wrapping things up
+
+If you have any further questions for me about buying, selling, or real estate in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/How+Home+Buying+and+Selling+Works+Right+Now.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/How+Home+Buying+and+Selling+Works+Right+Now.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Although the way people buy and sell homes has changed, it hasn’t stopped us from continuing to help our clients reach their real estate goals. Here’s how we’re operating in this new normal.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>Although the way people buy and sell homes has changed, it hasn’t stopped us from continuing to help our clients reach their real estate goals. Here’s how we’re operating in this new normal.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Economy After COVID-19</title>
+        <link>http://localhost:4000/our-economy-after-covid-19.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Joshua Holt</author>
+        <pubDate>2020-04-20 15:09:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/Our+Economy+After+COVID-19.mp4</guid>
+        <description>
+
+The human toll of the coronavirus pandemic may forever change families, yet the economic impact will rebound with a cycle of downturn followed by economic expansion, as we’ve seen play out in the U.S. economy many times before.
+
+Today I’d like to share what leading experts and current research indicate about the economic impact we’ll likely see as a result of COVID-19. Let’s start with a forecast of the U.S. Gross Domestic Product (GDP).
+
+When looking at GDP (the measure of our country’s economic health), a survey of three leading financial institutions projects a sharp decline followed by a steep rebound in the second half of this year.
+
+A recent study from John Burns Consulting notes that past pandemics have created V-shaped economic recoveries, and had minimal impact on housing prices. This certainly gives us hope and optimism regarding what is to come as this crisis passes.
+
+“This won’t last forever, and we will get back to growth mode—we’ve got this.”
+
+With this historical analysis in mind, many business owners are also optimistically anticipating a bright economic return. A recent PricewaterhouseCoopers survey captures this confidence, noting 66% of surveyed business owners believe their companies will return to normal business rhythms within a month of the pandemic passing, and 90% feel they should be back to normal operation one to three months afterward.
+
+From expert financial institutions to business leaders across the country, we can clearly see that a quick return to normal once the current crisis subsides is not too far away. In essence, this pandemic won’t last forever, and we will get back to growth mode—we’ve got this. 
+
+Lives and businesses are being impacted by COVID-19, but experts do see a light at the end of the tunnel. As the economy slows down due to the health crisis, we can take the guidance and advice from experts that this too will pass.
+
+If you have any questions about real estate, please feel free to reach out via phone or email. We would love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/Our+Economy+After+COVID-19.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/Our+Economy+After+COVID-19.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What will our economy look like once the coronavirus pandemic has passed? Here’s what experts say.</itunes:subtitle>
+        <itunes:author>Joshua Holt</itunes:author>
+        <itunes:summary>What will our economy look like once the coronavirus pandemic has passed? Here’s what experts say.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Madison, WI, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>5 Sweet Tax Deductions When Selling a Home</title>
         <link>http://localhost:4000/5-sweet-tax-deductions-when-selling-a-home.html</link>
