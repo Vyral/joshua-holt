@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for a Safe Move During This Time
-date: 2020-05-15 19:08:07
+date: 2020-05-15 19:08:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -18,7 +18,7 @@ youtube_code: J5O-EEHTtbs
 
 {% include youtube.html %}
 
-Recently, a number of folks have asked me about how they can keep their families safe during the moving process right now. Since we’re in the midst of a pandemic, I have three tips for you to help make your move safe and healthy:
+Recently, several folks have asked me about how they can keep their families safe during the moving process right now. Since the COVID-19 pandemic is ongoing, I have three tips for you to help make your move safe and healthy:
 
 **1\. It's worth spending a bit of extra money.** The American Moving and Storage Association recommends passing on free, recycled boxes from supermarkets and liquor stores. Instead, get new moving boxes and packing tape. The reason is simple: Less chance of exposure to the virus. Stock up on adequate disinfectants and wipes for yourself, your moving truck, and any shared equipment you might be using.&nbsp;&nbsp;
 
