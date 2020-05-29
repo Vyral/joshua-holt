@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post-Coronavirus Moving Trends
-date:
+date: 2020-05-29 17:31:21
 tags:
 excerpt: COVID-19 may overturn recent trends regarding where people choose to live.
 enclosure:
@@ -11,11 +11,15 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/moving-trends-youtube.jpg
+youtube_code: 5G2rgVibc64
 ---
 
-{% include youtube.html %}<center>COVID-19 may overturn recent trends regarding where people choose to live.</center>
+{% include youtube.html %}
+
+<center>COVID-19 may overturn recent trends regarding where people choose to live.</center>
+
+&nbsp;
 
 The coronavirus pandemic is sure to have long-reaching consequences in all walks of life, but some of these consequences might surprise you.&nbsp;
 
