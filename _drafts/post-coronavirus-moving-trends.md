@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}COVID-19 may overturn recent trends regarding where people choose to live.
+{% include youtube.html %}<center>COVID-19 may overturn recent trends regarding where people choose to live.</center>
 
 The coronavirus pandemic is sure to have long-reaching consequences in all walks of life, but some of these consequences might surprise you.&nbsp;
 
