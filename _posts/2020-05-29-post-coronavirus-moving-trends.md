@@ -1,25 +1,23 @@
 ---
 layout: post
 title: Post-Coronavirus Moving Trends
-date: 2020-05-29 17:31:21
+date: 2020-05-29 17:31:00
 tags:
+  - Market Update
 excerpt: COVID-19 may overturn recent trends regarding where people choose to live.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2020/Post-Coronavirus+Moving+Trends.mp4
 pullquote: >-
   Demand is rising, with Zillow and Realtor.com both reporting increased search
   traffic and buyer inquiries.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/moving-trends-youtube.jpg
 youtube_code: 5G2rgVibc64
 ---
 
 {% include youtube.html %}
-
-<center>COVID-19 may overturn recent trends regarding where people choose to live.</center>
-
-&nbsp;
 
 The coronavirus pandemic is sure to have long-reaching consequences in all walks of life, but some of these consequences might surprise you.&nbsp;
 
