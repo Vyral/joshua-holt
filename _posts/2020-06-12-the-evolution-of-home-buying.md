@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evolution of Home Buying
-date: 2020-06-12 19:34:48
+date: 2020-06-12 19:34:00
 tags:
   - Home Buyer Tips
 excerpt: Remote work is changing the home buying experience in three key ways.
@@ -19,7 +19,7 @@ youtube_code: zN6iigV6FdI
 
 {% include youtube.html %}
 
-The way we work has always influenced where we live and what type of home we buy. In fact, the Bureau of Labor Statistics reported that in the past year, 25% of the workforce worked from home at least part of the time. Based on the world we live in, that statistic will likely only increase. Due to remote work, we’re spending more time at home than ever before, and this is changing the criteria we use when shopping for a home.&nbsp;
+The way we work has always influenced where we live and what type of home we buy. The Bureau of Labor Statistics reported that in the past year, 25% of the workforce worked from home at least part of the time. Based on the world we live in, that statistic will likely only increase. Due to remote work, we’re spending more time at home than ever before, and this is changing the criteria we use when shopping for a home.&nbsp;
 
 Specifically, remote work is changing the way people buy homes in three important ways:
 
@@ -27,9 +27,9 @@ Specifically, remote work is changing the way people buy homes in three importan
 
 {% include pullquote.html %}
 
-**2\. It’s causing more buyers to look for dedicated office space.** For many years, buyers’ focus centered on open concept floor plans, and many still prefer this type of floor plan. However, more and more are looking for a dedicated, private space they can make into an office. Perhaps it’s an actual office space, an additional bedroom, or extra space in the basement or attic that they convert. Conversely, they’re no longer prioritizing things like home gyms and theaters.&nbsp;
+**2\. It’s causing more buyers to look for dedicated office space.** For many years, buyers’ focus centered on open concept floor plans, and many still prefer this type of floor plan. However, more and more are looking for a dedicated, private space they can make into an office. Perhaps it’s an actual office space, an additional bedroom, or extra space in the basement or attic that they can convert. Conversely, they’re no longer prioritizing things like home gyms and theaters.&nbsp;
 
-**3\. It’s causing more buyers to settle down for the long haul.** Back in the 1980s, people moved and sold their home every five or six years. Now that average has increased to nine to 12 years. It’s more important for modern buyers to get the space they need right now instead of moving later on to get that space.&nbsp;
+**3\. It’s causing more buyers to settle down for the long haul.** Back in the 1980s, people moved and sold their homes every five or six years. Now that average has increased to nine to 12 years. It’s more important for modern buyers to get the space they need right now instead of moving later on to get that space.&nbsp;
 
 In closing, it’s likely that companies will continue to offer flexible working arrangements, thereby giving greater freedom to prospective buyers. Sellers who modify their listing by adding a private home office may find themselves at a great advantage.&nbsp;
 
