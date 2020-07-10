@@ -31,7 +31,7 @@ If you think back to the purchase of your current home, you’ll likely remember
 
 Lowball offers can be a form of real-time feedback about your home; if a range of buyers submit low offers, it may point to a clear issue that you’ve overlooked, and therefore it forces an opportunity to address that.&nbsp;
 
-**5\. Understand that&nbsp;*****everything&nbsp;***is negotiable.\*\* Buyers may want all sorts of concessions and contingencies.It might be helpful to think of your home sale as another ordinary transaction, like buying a car. Negotiation in a car sale is a no brainer, so transfer that mentality to your home sale. Just as an auto dealer wouldn’t accept any ol’ offer, you don’t have to give in on every ask, either.&nbsp;
+**5\. Understand that&nbsp;*****everything&nbsp;*is negotiable.**&nbsp;Buyers may want all sorts of concessions and contingencies.It might be helpful to think of your home sale as another ordinary transaction, like buying a car. Negotiation in a car sale is a no brainer, so transfer that mentality to your home sale. Just as an auto dealer wouldn’t accept any ol’ offer, you don’t have to give in on every ask, either.&nbsp;
 
 Selling your home for the first time is an opportunity to learn about real estate. The more you know before you sell, the bigger the advantage you’ll have in the end; you’ll be calm, focused, and determined when it comes to decisions that benefit your sale.&nbsp;
 
