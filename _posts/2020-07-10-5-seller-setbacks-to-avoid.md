@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Seller Setbacks to Avoid
-date: 2020-07-10 17:01:49
+date: 2020-07-10 17:01:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how to avoid hang-ups and heartaches while selling your home.
@@ -31,7 +31,7 @@ If you think back to the purchase of your current home, you’ll likely remember
 
 Lowball offers can be a form of real-time feedback about your home; if a range of buyers submit low offers, it may point to a clear issue that you’ve overlooked, and therefore it forces an opportunity to address that.&nbsp;
 
-**5\. Understand that*****everything *****is negotiable.** Buyers may want all sorts of concessions and contingencies.It might be helpful to think of your home sale as another ordinary transaction, like buying a car. Negotiation in a car sale is a no brainer, so transfer that mentality to your home sale. Just as an auto dealer wouldn’t accept any ol’ offer, you don’t have to give in on every ask, either.&nbsp;
+**5\. Understand that&nbsp;*****everything&nbsp;***is negotiable.\*\* Buyers may want all sorts of concessions and contingencies.It might be helpful to think of your home sale as another ordinary transaction, like buying a car. Negotiation in a car sale is a no brainer, so transfer that mentality to your home sale. Just as an auto dealer wouldn’t accept any ol’ offer, you don’t have to give in on every ask, either.&nbsp;
 
 Selling your home for the first time is an opportunity to learn about real estate. The more you know before you sell, the bigger the advantage you’ll have in the end; you’ll be calm, focused, and determined when it comes to decisions that benefit your sale.&nbsp;
 
