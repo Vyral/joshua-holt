@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which Closing Costs Should You Prepare for as a Seller?'
-date: 2020-08-07 17:30:37
+date: 2020-08-07 17:30:00
 tags:
   - Home Seller Tips
 excerpt: Here are four closing costs you should prepare for when selling.
@@ -19,7 +19,7 @@ youtube_code: tws3snil49c
 
 {% include youtube.html %}
 
-Aside from your agent’s commission, here are four closing costs to prepare for when selling your home:&nbsp;
+Aside from your agent’s commission, there are four closing costs to prepare for when selling your home:&nbsp;
 
 **1\. Owner’s title policy.** This is included in most real estate transactions so the property will transfer freely and clearly to the buyer’s name. Lenders will require this, and any buyer will want to know that their new home is theirs without issue. Typically, this fee is based on the home’s sale price. For example, the fee for a $300,000 home will typically be $1,000 to $1,200, depending on which title company you work with. If you’re able to provide the policy from when you purchased the home, you may get a discount.&nbsp;
 
@@ -27,7 +27,7 @@ Aside from your agent’s commission, here are four closing costs to prepare for
 
 {% include pullquote.html %}
 
-**3\. Additional title fees.** These include the deep preparation, special assessment search, gap endorsement, and mortgage payoff fees. Each of these tend to be fixed costs (i.e., not tied to the sale price) and range from a little less than $100 to slightly more depending on the item.&nbsp;
+**3\. Additional title fees.** These include the deep preparation, special assessment search, gap endorsement, and mortgage payoff fees. Each of these tends to be fixed costs (i.e., not tied to the sale price) and range from a little less than $100 to slightly more depending on the item.&nbsp;
 
 **4\. Property tax proration.** If you close on your home sale at the end of the year as opposed to the beginning, this will be a much smaller amount. For example, if you sell at the end of August and your property tax is around $6,000, you’d only pay $4,000.&nbsp;
 
