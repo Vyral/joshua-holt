@@ -29,7 +29,7 @@ Aside from your agent’s commission, there are four closing costs to prepare fo
 
 **3\. Additional title fees.** These include the deep preparation, special assessment search, gap endorsement, and mortgage payoff fees. Each of these tends to be fixed costs (i.e., not tied to the sale price) and range from a little less than $100 to slightly more depending on the item.&nbsp;
 
-**4\. Property tax proration.** If you close on your home sale at the end of the year as opposed to the beginning, this will be a much smaller amount. For example, if you sell at the end of August and your property tax is around $6,000, you’d only pay $4,000.&nbsp;
+**4\. Property tax proration.**&nbsp;If you close on your home sale at the end of the year as opposed to the beginning, this will be a larger amount. For example, if you sell at the end of August and your property tax is around $6,000, you’d pay $4,000.&nbsp;
 
 There may be other fees to account for based on your situation, so if you’d like to know more about this topic, give me a call and I’d be happy to prepare you a complimentary, no-obligation home value analysis and seller net sheet.&nbsp;
 
