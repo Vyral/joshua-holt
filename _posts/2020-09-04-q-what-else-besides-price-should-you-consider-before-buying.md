@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Else Besides Price Should You Consider Before Buying?'
-date: 2020-09-04 21:40:20
+date: 2020-09-04 21:40:00
 tags:
   - Home Buyer Tips
 excerpt: 'When buying a home, there’s more to think about than just price.'
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/holt-ss-yt.jpg
-youtube_code: X1VeRkYMCg4
+youtube_code: IBnKwJgxs8g
 ---
 
 {% include youtube.html %}
