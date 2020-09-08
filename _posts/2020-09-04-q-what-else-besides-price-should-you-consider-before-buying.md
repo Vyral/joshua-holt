@@ -19,7 +19,7 @@ youtube_code: IBnKwJgxs8g
 
 {% include youtube.html %}
 
-When most folks search for a new home, they naturally start by looking at prices. It’s important to consider what else impacts the purchase before making a decision, though. **It’s not just the price that matters, but the overall cost in the long run as well.&nbsp;**
+When most folks search for a new home, they naturally start by looking at prices. It’s important to consider what else impacts the purchase before making a decision, though. **It's not just the price that matters, but the overall cost of owning the home.**
 
 Today this cost is largely impacted by low mortgage rates. Low rates are making homes more affordable now than at any time since 2016. These rates are offsetting rising home prices because it’s less expensive to borrow money. In essence, purchasing a home while rates are this low may save you significantly over the life of your mortgage loan.&nbsp;
 
