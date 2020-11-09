@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Save Money as a Homeowner?'
-date: 2020-11-06 20:30:52
+date: 2020-11-06 20:30:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -34,4 +34,4 @@ Even if you’re not planning on selling your home anytime soon, here are four w
 
 Of course, if you need recommendations for service providers who can help with these tips, don’t hesitate to reach out to me. I’d be happy to show you our list of service providers and help you save money.&nbsp;
 
-Lastly, I want to remind you that the Holt Real Estate Team is still offering our real estate checkups. Your home is your biggest asset, so don’t neglect its health. Just give us a call and we’ll evaluate your home and&nbsp; your expenses, and we’ll tell you how to maximize your homeownership goals. I look forward to hearing from you.
+Lastly, I want to remind you that the Holt Real Estate Team is still offering our real estate checkups. Your home is your biggest asset, so don’t neglect its health. Just give us a call, and we'll evaluate your home and expenses; we'll tell you how to maximize your homeownership goals. We look forward to hearing from you.
