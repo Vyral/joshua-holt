@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Do You Still Buy Into These 5 Selling Myths?'
-date:
+date: 2020-12-04 18:57:30
 tags:
   - Home Buyer Tips
 excerpt: Here’s the truth behind popular selling myths that may be holding you back.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: pMkEt_U1URs
 ---
 
 {% include youtube.html %}
