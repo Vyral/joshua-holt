@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Will Shape Our Market in 2021?'
-date: 2020-12-28 22:34:49
+date: 2020-12-28 22:34:00
 tags:
   - Market Update
 excerpt: Here are four trends you can expect to see in our 2021 real estate market.
@@ -21,9 +21,9 @@ youtube_code: 2_3cqrv7fp4
 
 Despite everything, the housing market was one sector of the economy that performed consistently well throughout 2020. What do experts think this coming year will bring? Here are four trends to watch out for:&nbsp;
 
-**1\. Prices will continue to rise.** If inventory remains as low as it has, it’s possible that prices will continue to go up. The median sold price for properties in our area was $315,000 this year—a 6.8% increase compared to 2019. Inventory also further declined 26.3% year over year. Despite a quick burst of new listings toward the end of the summer (perhaps due to a delay in the market caused by the pandemic), a dwindling supply of houses is great news for sellers but not so much for buyers.&nbsp;
+**1\. Prices will continue to rise.** If inventory remains as low as it has, it’s possible that prices will continue to go up. The median sold price for properties in our area was $315,000 this year—a 6.8% increase compared to 2019. Inventory also further declined by 26.3% year over year. Despite a quick burst of new listings toward the end of the summer (perhaps due to a delay in the market caused by the pandemic), a dwindling supply of houses is great news for sellers but not so much for buyers.&nbsp;
 
-**2\. Suburbs will reign supreme.** We talked about this trend early this year, and it looks like it will continue. As more and more folks find out that it’s easier for them to work remotely or that proximity to where they work isn’t as important, they’ll look to buy homes further and further away from city centers. Many people are starting to look toward neighboring counties or smaller communities where they can get a bigger bang for their buck.&nbsp;
+**2\. Suburbs will reign supreme.** We talked about this trend early this year, and it looks like it will continue. As more and more folks find out that it’s easier for them to work remotely or that proximity to where they work isn’t as important, they’ll look to buy homes farther and farther away from city centers. Many people are starting to look toward neighboring counties or smaller communities where they can get a bigger bang for their buck.&nbsp;
 
 {% include pullquote.html %}
 
