@@ -1,26 +1,26 @@
 ---
 layout: post
 title: 4 Reasons NOT to Wait Until Spring to Sell
-date: 2021-02-19 19:38:02
+date: 2021-02-19 19:38:00
 tags:
   - Home Seller Tips
 excerpt: Here are the four main reasons why you shouldn’t wait till spring to list.
 enclosure:
 pullquote: >-
-  You can enjoy everything the spring market has to offer right now, but with
-  even more advantages added on.
+  You can enjoy everything the spring market has to offer right now but with
+  even more advantages.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/list-now-yt.jpg
-youtube_code: rjzTJa_nuEc
+youtube_code: aQhsQ4vhCS4
 ---
 
 {% include youtube.html %}
 
 Recently, I met with a client of mine who had been debating whether to wait a few months into the spring market to list their home or do it now. I shared with them these four reasons why now might be the absolute best time to act:&nbsp;
 
-**1\. Motivated buyers.** When your home’s listed on the mid- to late-winter market, you’ll be encountering far more serious buyers than those you’d be attracting in spring. They’ve already taken the steps to ensure they’re pre-approved, they know exactly what they want, and they most likely have life circumstances that necessitate purchasing a home as soon as possible (e.g. job relocation).&nbsp;
+**1\. Motivated buyers.** When your home’s listed on the mid- to late-winter market, you’ll be encountering far more serious buyers than those you’d be attracting in spring. They’ve already taken the steps to ensure they’re pre-approved, they know exactly what they want, and they most likely have life circumstances that necessitate purchasing a home as soon as possible (e.g., job relocation).&nbsp;
 
 **2\. Less competition.** Many people still buy into the conventional wisdom that says it’s best to take a home off the market around the holidays and/or during the Wisconsin winter months. This predictable behavior results in even less inventory in a market that’s already dealing with an inventory shortage. Contrary to popular belief, people do still have to buy when the temperatures bottom out and snow covers the ground. Just by *being* on the market now, you’ll capture a larger share of this motivated buyer pool.&nbsp;
 
@@ -30,6 +30,6 @@ Recently, I met with a client of mine who had been debating whether to wait a fe
 
 **4\. You can show off your home’s unique features.** Perhaps you have a charming fireplace to light up when these shorter days give way to darkness. Maybe you have a cozy living room that lends itself well to buyers’ visions of staying nice and warm with loved ones as they watch the first snowfall. Alternatively, it could be the case that your landscaping isn’t quite where it needs to be; a little snow cover will conveniently blanket any eyesores.&nbsp;
 
-Bonus reason: Low inventory. Yes, I already touched on this, but I can’t stress it enough: We’re dealing with *the lowest inventory that we have**ever* *seen.* So, as long as they are no other major life factors preventing you from putting your home on the market today, then you’ll benefit greatly from getting ahead of the so-called “best selling season” of spring. You can enjoy everything the spring market has to offer right now, but with even more advantages added on.
+Bonus reason: low inventory. Yes, I already touched on this, but I can’t stress it enough: We’re dealing with *the lowest inventory that we have <u>ever</u>* *seen.* So, as long as they are no other major life factors preventing you from putting your home on the market today, then you’ll benefit greatly from getting ahead of the so-called “best selling season” of spring. You can enjoy everything the spring market has to offer right now but with even more advantages.
 
 If you’d like help getting the selling process started, please reach out via phone or email anytime. It would be our pleasure to guide you through all that’s required to make your home market-ready. We have the tools to help you sell quickly and for top dollar so that you can move on to the next chapter of your life with confidence.
