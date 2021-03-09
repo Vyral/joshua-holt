@@ -18,11 +18,11 @@ youtube_code: PC55Xrshvlg
 
 {% include youtube.html %}
 
-What happens when an appraisal comes in short? This is certainly an appropriate concern in our current real estate market, as prices look like they’re on a neverending upward trajectory. As a seller, you have three options when an appraiser doesn’t value your home for the price you agreed to sell it for.
+What happens when an appraisal comes in short? This is certainly an appropriate concern in our current real estate market, as prices look like they’re on a never-ending upward trajectory. As a seller, you have three options when an appraiser doesn’t value your home for the price you agreed to sell it for.
 
 First, **check the appraisal for human error.** Mistakes can happen, so perhaps something got miscalculated. Take a thorough look through your home’s appraisal and see whether there are any issues that could’ve caused it to come in low. 
 
-If everything checks out, your next option is to (along with your agent) **prepare a rebuttal.** Sometimes this works, sometimes it doesn’t. In any case, your agent can evaluate the comparable properties the appraiser used and see whether they were justified in being used. If possible, they can also prepare their own list of comparable properties that can bring the appraisal up to where you need it to be. 
+If everything checks out, your next option is to **prepare a rebuttal with the help of your agent.** Sometimes this works, sometimes it doesn’t. In any case, your agent can evaluate the comparable properties the appraiser used and see whether they were justified. If possible, they can also prepare their own list of comparable properties that can bring the appraisal up to where you need it to be. 
 
 {% include pullquote.html %}
 
