@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top Spring Cleaning Tips
-date: 2021-03-19 19:05:45
+date: 2021-03-19 19:05:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/spring-cleaning-yt.jpg
-youtube_code: dbgK0X4CN0I
+youtube_code: cAg-tGxKBI0
 ---
 {% include youtube.html %}
 
