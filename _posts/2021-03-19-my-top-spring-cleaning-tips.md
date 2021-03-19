@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: Here are four simple tips to help you get started on your spring cleaning.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/How+Sellers+Can+Deal+With+Low+Appraisals.mp4
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/My+Top+Spring+Cleaning+Tips.mp4
 pullquote: >-
   The kitchen receives a lot of traffic, so it should receive some extra
   attention when cleaning.
