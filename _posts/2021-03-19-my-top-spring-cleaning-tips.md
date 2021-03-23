@@ -33,4 +33,4 @@ When was the last time you truly looked at the address numbers on your house? St
 
 **4\. Bathrooms.** No one likes deep cleaning toilets, sinks, and tile floors, but it’s a must. If you have fabric shower curtains, run those through a gentle wash cycle. Or, if yours are older shower curtains, perhaps it’s time to replace them.&nbsp;
 
-Of course, these are just some great starting points; we have a fairly comprehensive spring cleaning checklist that we’d be more than happy to share with you. If you’re interested in receiving a copy of that or have any questions about the spring selling season, just give us a call or send an email. We’d love to hear from you and find out how we can be of service.
+Of course, these are just some great starting points; we have a fairly comprehensive spring cleaning checklist that we’d be more than happy to share with you. If you’re interested in receiving a copy of that or have any questions about the spring selling season, give us a call or send an email. We’d love to hear from you and find out how we can be of service.
