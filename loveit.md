@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Love It or Leave It
-permalink: /LoveIt/
+permalink: /loveit/
 ---
 
 <br>&nbsp;
