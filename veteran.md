@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Veteran Services
-permalink: /Veteran/
+permalink: /veteran/
 ---
 
 <br>&nbsp;
