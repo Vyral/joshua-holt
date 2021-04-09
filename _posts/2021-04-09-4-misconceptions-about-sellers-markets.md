@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Misconceptions About Seller’s Markets
-date: 2021-04-09 20:25:41
+date: 2021-04-09 20:25:00
 tags:
   - Home Seller Tips
 excerpt: Here are the top four seller’s market misconceptions you shouldn’t believe.
@@ -20,11 +20,11 @@ If you’ve been following real estate market news, you likely know we’re in a
 
 **1\. You must plan for your next home before listing your current one.** I believe this misconception is what’s keeping most people from putting their houses on the market right now. Many people think they can’t list their property for sale until they already have their next home lined up. In reality, in the present market, sellers control more terms and conditions than usual. Asking for an extended closing date or negotiating a post-closing occupancy of up to 60 days gives sellers time to find their next house after they’ve secured an offer on their current one.
 
-{% include pullquote.html %}
-
 **2\. The home’s condition doesn’t matter.** Plenty of people think they can just list their property in any condition and it’ll sell quickly. Sometimes an as-is sale makes sense and is the best approach, but that isn’t normally the case. In truth, the condition still sells the home.&nbsp;
 
 Houses in the best condition will sell quicker and for the most money. When you hear that people are getting wildly high offers and excellent terms, it’s because their properties are in their best conditions. You may need to paint, clean, declutter, and all the other things to prepare the home that you would do in any market.
+
+{% include pullquote.html %}
 
 **3\. You can price your home above market value.** In our market, it’s crucial to set an appropriate asking price. Buyers are already concerned about overpaying and fatigued by what they’ve been experiencing out in the market. If you list your house higher than it should be, tons of buyers will simply avoid it. Ultimately, you’ll be playing catch-up and will probably sell for less than you would have if you’d priced it correctly from the beginning.&nbsp;
 
