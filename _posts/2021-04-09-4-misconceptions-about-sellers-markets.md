@@ -22,7 +22,7 @@ If you’ve been following real estate market news, you likely know we’re in a
 
 **2\. The home’s condition doesn’t matter.** Plenty of people think they can just list their property in any condition and it’ll sell quickly. Sometimes an as-is sale makes sense and is the best approach, but that isn’t normally the case. In truth, the condition still sells the home.&nbsp;
 
-Houses in the best condition will sell quicker and for the most money. When you hear that people are getting wildly high offers and excellent terms, it’s because their properties are in their best conditions. You may need to paint, clean, declutter, and all the other things to prepare the home that you would do in any market.
+Houses in the best condition will sell quicker and for the most money. When you hear that people are getting wildly high offers and excellent terms, it’s because their properties are in their best conditions. You may need to paint, clean, declutter, and do all the other things to prepare the home that you would do in any market.
 
 {% include pullquote.html %}
 
