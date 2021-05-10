@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell Homes Simultaneously
-date: 2021-05-07 16:38:34
+date: 2021-05-07 16:38:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -23,7 +23,7 @@ Sellers are regularly seeing multiple offers, few to no contingencies, and quick
 
 **1\. Can you afford to buy without selling your current home first?**
 
-**2\. Can you borrow against the equity in your current home?** The average home in Wisconsin is up by $19,000 in equity over the past year.&nbsp;
+**2\. Can you borrow against the equity in your current home?** The average home in Wisconsin has gained $19,000 in equity over the past year.&nbsp;
 
 {% include pullquote.html %}
 
