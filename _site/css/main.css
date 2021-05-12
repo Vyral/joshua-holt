@@ -1246,7 +1246,6 @@ html[xmlns] .flexslider .slides {
     border: 1px solid #374c9e; }
   .ctalink:active {
     box-shadow: 0 0 0 #374c9e;
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
 .jp-audio {
@@ -1427,24 +1426,20 @@ html[xmlns] .flexslider .slides {
 
 @-webkit-keyframes fadeNavigation {
   0% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
     background: rgba(35, 38, 40, 0); }
   100% {
     background: #232628;
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 
 @keyframes fadeNavigation {
   0% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
     background: rgba(35, 38, 40, 0); }
   100% {
     background: #232628;
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -1926,7 +1921,6 @@ table tr, table td {
     border: 1px solid #374c9e; }
   .readlink > a:active {
     box-shadow: 0 0 0 #374c9e;
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
 #arrow_left, #arrow_right {
@@ -1995,7 +1989,6 @@ table tr, table td {
   border-radius: 50%;
   transition: 0.3s; }
   .post .headshot:hover {
-    -webkit-transform: scale(0.9);
     transform: scale(0.9); }
 .post .fluid-vids {
   margin: 3rem 0; }
@@ -2119,10 +2112,8 @@ table tr, table td {
     -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 @keyframes checkmark {
   0% {
-    -webkit-transform: rotate(-15deg) scale(0.02);
     transform: rotate(-15deg) scale(0.02); }
   100% {
-    -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px);
     transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 .post-cta {
   font-size: 18px;
@@ -2150,13 +2141,10 @@ table tr, table td {
       background: transparent;
       color: #6e82cd;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-      -webkit-transform: scale(1.05);
       transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
       box-shadow: 0 0 0 #6e82cd;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .about .socials {
@@ -2288,7 +2276,6 @@ table tr, table td {
     .search-box .search-input:focus {
       background: white;
       color: #374c9e;
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
     background: #374c9e;
@@ -2306,7 +2293,6 @@ table tr, table td {
       border: 1px solid #374c9e; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #374c9e;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 @media (max-width: 990px) {
@@ -2351,7 +2337,6 @@ table tr, table td {
       fill: #374c9e; }
   .review.button:active, .review.button-ghost:active {
     box-shadow: 0 0 0 #374c9e;
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
 @media (max-width: 990px) {
@@ -2432,7 +2417,7 @@ table tr, table td {
   font-size: 12px; }
 
 .vet {
-  width: 200px; }
+  width: 600px; }
 
 .item-container {
   margin: 3rem 5rem;
