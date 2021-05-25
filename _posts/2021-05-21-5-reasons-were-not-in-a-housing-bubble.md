@@ -22,7 +22,7 @@ Fear not, buyer and sellers—here are five reasons we’re not in a housing bub
 
 **1\. Mortgage lending standards are stricter than they were prior to the last housing crash.** It was much easier to get a mortgage back then. Today it’s simply much tougher to qualify. If you look at the graph at 0:43 in the video, you'll understand why. The easiest way to understand that graph is this: The higher the number, the easier it is to get a mortgage.&nbsp;
 
-**2\. Prices are not soaring out of control.** Though price appreciation has been quite strong recently, it’s nowhere near the kind of rise we saw before the crash. The average annual appreciation is around 6.3%, and although our average is higher than this historic norm, it’s not accelerating beyond control as it did in the early 2000s.&nbsp;
+**2\. Prices are not soaring out of control.** Though price appreciation has been quite strong recently, it’s nowhere near the kind of rise we saw before the crash. The average annual appreciation is around 3.6%, and although our average is higher than this historic norm, it’s not accelerating beyond control as it did in the early 2000s.&nbsp;
 
 **3\. There’s not a surplus of homes on the market.** On the contrary, we have a home shortage. A balanced market has around six months of supply. Anything more is an overabundance, which causes prices to depreciate. Anything less is a shortage, which will lead to continued appreciation. As you can see at 1:39, there were simply too many homes on the market in 2007 compared to right now. Further fueling this shortage is the drastic decrease in new construction homes. Over the previous decade, we saw significantly fewer homes built compared to the previous decades that led up to the housing crash.&nbsp;
 
