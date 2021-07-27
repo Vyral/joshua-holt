@@ -23,7 +23,7 @@ It appears that housing supply may be on the rise, so what does that mean for yo
 
 Of course, an important factor in today’s housing market is the number of homes for sale. While inventory levels continue to sit near historic lows, there are indications that we may have hit the lowest point we’ll see and that we’re possibly working our way back up.
 
-In May, inventory was at 2.5 months of supply, which was up from 2.4 the month before. That’s a trend we’re seeing on both the national and local levels; **the months’ supply has increased every month since the beginning of the year.** Though we’re still nowhere near a balanced market (around six months of supply), we are seeing a slow but steady increase in homes for sale.
+In May, inventory was at 2.5 months of supply, which was up from 2.4 in April. That’s a trend we’re seeing on both the national and local levels; **the months’ supply has increased every month since the beginning of the year.** Though we’re still nowhere near a balanced market (around six months of supply), we are seeing a slow but steady increase in homes for sale.
 
 {% include pullquote.html %}
 
