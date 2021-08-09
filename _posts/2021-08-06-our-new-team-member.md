@@ -4,20 +4,20 @@ title: Our New Team Member
 date: 2021-08-06 16:28:48
 tags:
   - Real Estate
-excerpt: Welcome the newest real estate agent on our team, Jonathan Gasparo.
+excerpt: Welcome the newest real estate agent on our team, Jonathan Gaspero.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /new-agent-yt.jpg
+youtube_alternate_image: /new-agent-yt-1.jpg
 youtube_code: NIa883Rm6NQ
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Jonathan Gasparo is joining our team as an agent, and we wanted to introduce him to all of you. Here’s a quick Q&A with him so you can get to know him better:
+Jonathan Gaspero is joining our team as an agent, and we wanted to introduce him to all of you. Here’s a quick Q&A with him so you can get to know him better:
 
 **What is your background from before you got into real estate?**
 
