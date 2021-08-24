@@ -5,7 +5,8 @@ date: 2021-08-24 19:13:45
 tags:
   - Home Buyer Tips
 excerpt: Waiting could cost you more in the long run than buying right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/The+Costs+of+Waiting+To+Buy.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
