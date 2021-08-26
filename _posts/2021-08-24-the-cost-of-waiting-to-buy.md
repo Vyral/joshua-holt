@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Costs of Waiting To Buy
+title: The Cost of Waiting To Buy
 date: 2021-08-24 19:13:45
 tags:
   - Home Buyer Tips
