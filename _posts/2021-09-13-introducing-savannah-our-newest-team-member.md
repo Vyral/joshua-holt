@@ -5,7 +5,8 @@ date: 2021-09-13 21:56:52
 tags:
   - Real Estate
 excerpt: Here’s my conversation with Savannah, our team’s new executive assistant.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/Introducing+Savannah%2C+Our+Newest+Team+Member.mp4
 pullquote: When I saw you had a job opening, I knew it was a great opportunity.
 enclosure_type: video/mp4
 enclosure_time:
