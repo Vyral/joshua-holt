@@ -5,7 +5,8 @@ date: 2021-09-27 22:02:10
 tags:
   - Home Buyer Tips
 excerpt: Here are some nuances of VA loans that you should be aware of.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/How+To+Navigate+VA+Loans.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
