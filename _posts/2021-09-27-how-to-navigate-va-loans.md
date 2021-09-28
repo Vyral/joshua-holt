@@ -18,7 +18,7 @@ youtube_code: Bwouk3U9RIY
 
 {% include excerpt.html %}
 
-As a veteran, I take a lot of pride in helping military veterans with their home purchases. Today I’m talking with Joe Long from Guild Mortgage about some of the nuances to be aware of with the VA loan. He’s a great local lender, and he does a lot of business with veterans as well.
+As a Veteran, I take a lot of pride in helping military Veterans with their home purchases. Today I’m talking with Joe Long from Guild Mortgage about some of the nuances to be aware of with the VA loan. He’s a great local lender, and he does a lot of business with Veterans as well.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
@@ -40,4 +40,4 @@ As a veteran, I take a lot of pride in helping military veterans with their home
 
 6:56 — Wrapping up
 
-If you have any questions about real estate or the VA loan process, reach out to our team at 608-345-6594 or [jdholt@kw.com](mailto:jdholt@kw.com). We look forward to hearing from you and helping you in any way we can.
+If you have any questions about real estate or the VA loan process, reach out to our team at 608-345-6594 or [jdholt@kw.com](mailto:jdholt@kw.com). We look forward to hearing from you and helping in any way we can.
