@@ -3,6 +3,7 @@ layout: post
 title: The Market Shift is Coming
 date: 2021-10-11 17:53:41
 tags:
+  - Market Update
 excerpt: The market is shifting from a seller’s market to a more balanced market.
 enclosure:
 pullquote: We're shifting from a seller's market to a more balanced market.
@@ -20,6 +21,6 @@ I was recently asked whether we’re starting to see a shift from the robust sel
 
 {% include pullquote.html %}
 
-After the pandemic began and interest rates plummeted, a lot of people decided they wanted to buy a home. Many of them were competing for specific areas. Now, people are starting to spread out so demand won't be so concentrated in certain areas. Buyers should be able to make offers without waiving contingencies or using other strategies to stand out and there will be more options available. **In today's shifting market, buyers can now feel more confident that the home they want is the one they'll be able to win.&nbsp;**
+After the pandemic began and interest rates plummeted, a lot of people decided they wanted to buy a home. Many of them were competing for specific areas. Now, people are starting to spread out so demand won't be so concentrated in certain areas. Buyers should be able to make offers without waiving contingencies or using other strategies to stand out and there will be more options available. **In today's shifting market, buyers can now feel more confident that the home they want is the one they'll be able to win. **
 
 If you've been sitting on the sidelines for a while or you've felt burnt out by the current market, reach out to us and let us show you what's really going on in our local market. We can set you up for success so that you can win your dream house. We look forward to hearing from you.
