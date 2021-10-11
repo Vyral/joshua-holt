@@ -13,9 +13,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/market-shift-yt.jpeg
 youtube_code: k3ej-VtlPI8
 ---
-{% include excerpt.html %}
-
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 I was recently asked whether we’re starting to see a shift from the robust seller's market we've experienced to a balanced market. **The market is beginning to change.** Price adjustments and longer days on market are signs that we're shifting from a seller's market to a more balanced market. That means the market will become less competitive for buyers and there won’t be bidding wars on every home.
 
