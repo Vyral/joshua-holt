@@ -21,11 +21,11 @@ If you’re a homeowner who expects trick-or-treaters to come to your door, here
 
 **1\. Keep your walkways and/or porch well-lit.** That way, kids and their parents can reach your door safely.
 
-**2\. Keep your pets out of sight.** Pets can often get stressed out by seeing so many strangers come to the door. Trying putting them in another room to reduce their stress and prevent them from scaring anyone.
+**2\. Keep your pets out of sight.** Pets can often get stressed out by seeing so many strangers come to the door. Put them in another room to reduce their stress and prevent them from scaring anyone.
 
 **3\. Park your cars in the garage, if possible.** That ensures your trick-or-treaters will have enough room to get to your front door.
 
-**4\. Use flameless LED candles in your jack-o’-lanterns instead of real candles.** This eliminates the fire hazard that burning candles present.
+**4\. Use flameless LED candles in your jack-o’-lanterns instead of real candles.** This eliminates the fire hazard that burning candles presents.
 
 {% include pullquote.html %}
 
@@ -39,8 +39,8 @@ On the other hand, if you’re planning to go out into the neighborhood and tric
 
 **4\. Remind your kids not to enter a stranger’s home.** Have them stay on the front porch and in full view.
 
-**5\. Be mindful of the treats your kids receive**. You never know—someone might put a food item in their bag that your kids are allergic to, or they might slip in something that isn’t necessarily appropriate. Comb through the candy before letting them pig out on it.
+**5\. Be mindful of the treats your kids receive**. You never know—someone might put a food item in their bag that your kids are allergic to, or they might slip in something that isn’t necessarily appropriate. Comb through the candy before letting them eat it.
 
 We hope you and yours have a safe, fun, and happy Halloween\!
 
-As always, if you feel like your home search is like hunting for a unicorn, give our team a call. We’ll be able to help you find the dream home you’re searching for at a price you’re proud of.
+As always, if you feel like your home search is like hunting for a unicorn, give our team a call. We’ll be able to help you find the dream home you’re searching for at a great price.
