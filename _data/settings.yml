@@ -31,20 +31,20 @@ client:
     technology committee.
   brand: Holt Real Estate Team
   brokerage: Keller Williams
-  market: 'Madison, WI'
-  address: '200 River Pl 130 Madison, WI 53716'
+  market: Madison, WI
+  address: 200 River Pl 130 Madison, WI 53716
   phone: 608-345-6594
   phone_type:
   phone2:
   phone2_type:
   email: jdholt@kw.com
-  url: 'http://homeswithholt.com'
+  url: https://www.holtrealestateteam.com/
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
     https://www.onlinehomeestimate.com/lp/1629C48F-ADF4-442D-8507-A6F9F9BD6171/d3p
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://jdholt.kw.com/search/WI/Madison'
+  second_CTA_URL: https://www.holtrealestateteam.com/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -59,7 +59,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://jdholt.kw.com/search/WI/Madison'
+    CTA_url2: https://www.holtrealestateteam.com/advanced-search
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -74,13 +74,13 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/holtrealestateteam/'
-  linkedin_url: 'https://www.linkedin.com/in/joshua-d-holt/'
-  youtube_url: 'https://www.youtube.com/channel/UCOXT_UJM8f3FsqXedFMUlmA'
-  twitter_url: 'https://twitter.com/JoshuaHoltRE'
-  instagram_url: 'http://instagram.com/holtrealestateteam/'
+  facebook_url: https://www.facebook.com/holtrealestateteam/
+  linkedin_url: https://www.linkedin.com/in/joshua-d-holt/
+  youtube_url: https://www.youtube.com/channel/UCOXT_UJM8f3FsqXedFMUlmA
+  twitter_url: https://twitter.com/JoshuaHoltRE
+  instagram_url: http://instagram.com/holtrealestateteam/
   pinterest_url:
-  zillow_url: 'https://www.zillow.com/profile/Joshua-D-Holt/'
+  zillow_url: https://www.zillow.com/profile/Joshua-D-Holt/
   trulia_url:
   yelp_url: >-
     https://www.yelp.com/biz/holt-real-estate-team-keller-williams-realty-madison
@@ -132,8 +132,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
