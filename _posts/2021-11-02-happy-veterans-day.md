@@ -24,4 +24,4 @@ Our Community Champions Program is an additional incentive that we offer to Vete
 
 If you haven't served but know a Veteran, please thank them for their service to our country and the lifestyle that we all get to enjoy. If you have any questions about the local real estate market, feel free to give us a call at 608 345-6594 or via email at [JDHolt@kw.com](mailto:JDHolt@kw.com). We look forward to hearing from you. Happy Veterans day.
 
-![](/uploads/team-photo.png){: width="9000" height="4448"}
+![](/uploads/team-photo2.png){: width="1000" height="494"}
