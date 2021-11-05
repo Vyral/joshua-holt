@@ -18,8 +18,8 @@ youtube_code: hB9nCZjwhGI
 
 {% include excerpt.html %}
 
-Veterans Day is just a couple of days away, so I want to thank all our veterans for their service and wish them a happy Veterans Day. **As a veteran-owned business, we take great pride in being able to help our fellow veterans with all of their real estate needs**, whether that's buying, selling, or investing.
+Veterans Day is just a couple of days away, so I want to thank all our Veterans for their service and wish them a happy Veterans Day. **As a Veteran-owned business, we take great pride in being able to help our fellow Veterans with all of their real estate needs**, whether that's buying, selling, or investing.
 
-Our Community Champions Program is an additional incentive that we offer to veterans who choose to buy, sell, or invest in real estate with us at the Holt Real Estate Team. If you'd like to learn additional information about that program, reach out to us, and we'll gladly share more information with you.
+Our Community Champions Program is an additional incentive that we offer to Veterans who choose to buy, sell, or invest in real estate with us at the Holt Real Estate Team. If you'd like to learn additional information about that program, reach out to us, and we'll gladly share more information with you.
 
-If you haven't served but know a veteran, please thank them for their service to our country and the lifestyle that we all get to enjoy. If you have any questions about the local real estate market, feel free to give us a call at 608 345-6594 or via email at [JDHolt@kw.com](mailto:JDHolt@kw.com). We look forward to hearing from you. Happy veterans day.
+If you haven't served but know a Veteran, please thank them for their service to our country and the lifestyle that we all get to enjoy. If you have any questions about the local real estate market, feel free to give us a call at 608 345-6594 or via email at [JDHolt@kw.com](mailto:JDHolt@kw.com). We look forward to hearing from you. Happy Veterans day.
