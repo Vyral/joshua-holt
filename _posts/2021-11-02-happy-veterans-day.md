@@ -4,7 +4,7 @@ title: Happy Veterans Day
 date: 2021-11-02 00:00:00
 tags:
     - Real Estate
-excerpt: As a veteran-owned business, we want to give thanks to our veterans.
+excerpt: As a Veteran-owned business, we want to give thanks to our Veterans.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/Happy+Veterans+Day.mp4
 pullquote:
