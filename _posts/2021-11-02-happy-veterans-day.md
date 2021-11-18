@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/veterans-day-yt.jpg
-youtube_code: hB9nCZjwhGI
+youtube_code: Ro6OwlaPVJI
 ---
 {% include youtube.html %}
 
