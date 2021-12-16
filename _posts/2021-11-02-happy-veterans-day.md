@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/veterans-day-yt.jpg
 youtube_code: hB9nCZjwhGI
+hidden: false
 ---
 {% include youtube.html %}
 

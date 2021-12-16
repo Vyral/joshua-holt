@@ -14,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/safety-tips-yt.jpg
 youtube_code: VAxd6P2csPU
+hidden: false
 ---
 {% include youtube.html %}
 

@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rent-back-yt.jpg
 youtube_code: jfmHw2asf9Q
+hidden: false
 ---
 {% include youtube.html %}
 

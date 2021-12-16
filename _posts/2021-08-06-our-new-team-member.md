@@ -12,6 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /new-agent-yt-1.jpg
 youtube_code: NIa883Rm6NQ
+hidden: false
 ---
 {% include youtube.html %}
 

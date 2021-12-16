@@ -12,6 +12,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/market-shift-yt.jpeg
 youtube_code: k3ej-VtlPI8
+hidden: false
 ---
 {% include youtube.html %}
 

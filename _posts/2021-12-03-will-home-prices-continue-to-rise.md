@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-prices-yt.jpg
 youtube_code: JwzS8cYuYc4
+hidden: false
 ---
 {% include youtube.html %}
 

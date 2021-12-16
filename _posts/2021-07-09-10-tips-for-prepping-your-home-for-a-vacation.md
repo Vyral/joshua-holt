@@ -14,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/vacation-prep-yt.jpg
 youtube_code: pnH2nxlLqRk
+hidden: false
 ---
 {% include youtube.html %}
 
