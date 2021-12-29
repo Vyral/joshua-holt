@@ -33,7 +33,7 @@ We wanted to partner with an organization that is making a great local impact bu
 
 If you have any questions about the Respite Center, buying a home, selling a home, or real estate in general, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
 
-**Here is some more information:**
+**More information:**
 
 [Rally for Respite](https://secure.qgiv.com/for/risw/){: target="_blank" rel="noopener"}
 
@@ -44,3 +44,7 @@ If you have any questions about the Respite Center, buying a home, selling a hom
 [Respite Center Stories](https://youtu.be/SaYkazu5J2Q){: target="_blank" rel="noopener"}
 
 [The Respite Center on the RISE website](https://risewisconsin.org/the-respite-center/){: target="_blank" rel="noopener"}
+
+[Respite Brochure](https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Final+-+Respite+Brochure+&#40;English&#41;.pdf){: target="_blank" rel="noopener"}
+
+![](/uploads/respite-logo.jpg){: width="452" height="508"}<br>![](/uploads/respite-center.jpg){: width="648" height="431"}​​​​<br>![](/uploads/respitecelebration-2015.png){: width="1187" height="637"}<br>![](/uploads/ariandlauren-1.jpg){: width="611" height="734"}![](/uploads/respite-1.jpg){: width="4032" height="3024"}<br>![](/uploads/respite-2.jpg){: width="1439" height="2934"}<br>![](/uploads/respite-3.jpg){: width="1602" height="3127"}<br>![](/uploads/respite-4.jpg){: width="3024" height="4032"}<br>![](/uploads/respite40anni.png){: width="1167" height="572"}
