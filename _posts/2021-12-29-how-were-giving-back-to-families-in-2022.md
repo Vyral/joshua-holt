@@ -32,3 +32,15 @@ We wanted to partner with an organization that is making a great local impact bu
 **Every time someone buys, sells, or invests in real estate with our team, we will give a portion of our profits to the Respite Center.** Our goal is not only to raise awareness for this great organization, but we want to raise a total of $10,000 for the center in 2022.
 
 If you have any questions about the Respite Center, buying a home, selling a home, or real estate in general, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
+
+**Here is some more information:**
+
+[Rally for Respite](https://secure.qgiv.com/for/risw/){: target="_blank" rel="noopener"}
+
+[Case for Giving](https://youtu.be/SaYkazu5J2Q){: target="_blank" rel="noopener"}
+
+[Respite Tour](https://youtu.be/kTvbPdNx_pg){: target="_blank" rel="noopener"} (by one of our kiddos)&nbsp;
+
+[Respite Center Stories](https://youtu.be/SaYkazu5J2Q){: target="_blank" rel="noopener"}
+
+[The Respite Center on the RISE website](https://risewisconsin.org/the-respite-center/){: target="_blank" rel="noopener"}
