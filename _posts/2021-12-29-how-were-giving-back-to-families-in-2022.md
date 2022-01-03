@@ -23,7 +23,7 @@ Our team recently had the opportunity to tour the Respite Center at RISE Wiscons
 
 It really resonated with us. We work with families every day with the focus of changing their lives through homeownership. Through our work, we’ve found that many families out there can benefit from organizations like RISE Wisconsin and their Respite Center. **We’re proud to announce that we have partnered with RISE Wisconsin to make their Respite Center in Madison our official nonprofit for 2022.**
 
-This center provides emergency childcare and respite for children ages 0 to 14 as well as parents support and crisis counseling seven days a week. This center also helps parents and caregivers access important resources to support and stabilize their families.
+This center provides emergency childcare and respite for children ages zero to 14 as well as parents support and crisis counseling seven days a week. This center also helps parents and caregivers access important resources to support and stabilize their families.
 
 {% include pullquote.html %}
 
