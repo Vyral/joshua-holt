@@ -11,8 +11,8 @@ pullquote: Helping families in need directly aligns with our core values.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/rise-wisconsin-yt.jpg
-youtube_code: GkN8-lGOEyo
+youtube_alternate_image: /uploads/rise-wisconsin-yt-1.jpg
+youtube_code: X3mXBGrLiW0
 hidden: true
 ---
 {% include youtube.html %}
