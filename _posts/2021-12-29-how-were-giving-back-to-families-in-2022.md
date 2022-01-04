@@ -11,7 +11,7 @@ pullquote: Helping families in need directly aligns with our core values.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/rise-wisconsin-yt-1.jpg
+youtube_alternate_image: /uploads/rise-wisconsin-yt-2.jpg
 youtube_code: X3mXBGrLiW0
 hidden: true
 ---
@@ -19,7 +19,7 @@ hidden: true
 
 {% include excerpt.html %}
 
-Our team recently had the opportunity to tour the Respite Center at RISE Wisconsin. We learned all about the work they’re doing to provide emotional support and emergency care for local families in need. 
+Our team recently had the opportunity to tour the Respite Center at RISE Wisconsin. We learned all about the work they’re doing to provide emotional support and emergency care for local families in need.
 
 It really resonated with us. We work with families every day with the focus of changing their lives through homeownership. Through our work, we’ve found that many families out there can benefit from organizations like RISE Wisconsin and their Respite Center. **We’re proud to announce that we have partnered with RISE Wisconsin to make their Respite Center in Madison our official nonprofit for 2022.**
 
