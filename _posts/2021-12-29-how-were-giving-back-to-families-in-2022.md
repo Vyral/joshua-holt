@@ -47,4 +47,4 @@ If you have any questions about the Respite Center, buying a home, selling a hom
 
 [Respite Brochure](https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Final+-+Respite+Brochure+&#40;English&#41;.pdf){: target="_blank" rel="noopener"}
 
-![](/uploads/collage.PNG){: width="502" height="582"}
+![](/uploads/collage.PNG){: width="100%"}
