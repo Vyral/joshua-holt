@@ -4,6 +4,7 @@ title: How We’re Giving Back to Families in 2022
 date: 2021-12-29 21:56:17
 tags:
   - Giving Back
+  - Real Estate
 excerpt: Here’s why we’re partnering with the Respite Center at RISE Wisconsin.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2021/How+We%E2%80%99re+Giving+Back+to+Families+in+2022.mp4
