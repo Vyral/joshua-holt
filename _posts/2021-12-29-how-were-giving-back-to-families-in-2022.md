@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rise-wisconsin-yt-2.jpg
 youtube_code: X3mXBGrLiW0
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
