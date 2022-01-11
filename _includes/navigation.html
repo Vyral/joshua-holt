@@ -1,3 +1,4 @@
+<div class="topnav" id="myTopnav">
 <nav role="navigation" class="navbar navbar-fixed-top navbar-andross">
 	<div class="navbar-header">
 		<a href="/" class="navbar-brand visible-xs" data-target="#navbarCollapse"	data-toggle="collapse">
@@ -28,9 +29,9 @@
 			{% endif %}
 			{% if site.data.settings.CTAs.first_CTA_URL != 'contact' and site.data.settings.CTAs.second_CTA_URL != 'contact' %}
 		<li><a href="/contact" id="contact">Free Consultation</a></li>
-		{% endif %}		
+		{% endif %}
 		<li><a href="/giving-back/" target="_blank">Giving Back</a></li>
-		
+
 <li><div class="dropdown">
 						<button class="dropbtn">Other Services <i class="fa fa-angle-down"></i></button>
 						<div class="dropdown-content">
@@ -65,3 +66,4 @@
 					<li><a class="cta" href="tel:{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a></li>
 		</ul>
 </nav>
+</div>

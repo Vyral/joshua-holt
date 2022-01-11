@@ -35,11 +35,12 @@
 		// @include transform(scale(1.05))
 		// @include transform(translateY(-0.2rem))
 	&:active
-		box-shadow: 0 0 0 $brand
+		box-shadow: 0 0 0 #ffffff
+		color: #ffffff
 		// @include transform(translateY(0rem))
 	&:focus
 		text-decoration: none
-		color: $brand
+		color: #ffffff
 
 .fa-bars
 	color: $brand
@@ -54,67 +55,7 @@
 	padding-right: 15px
 	padding-left: 15px
 
-// Dropdown Button
-.dropbtn
-	color: $brand
-	background-color: #ffffff
-	font-weight: 300
-	// padding: 6px 16px
-	font-size: 20px
-	margin-top: 12px
-	border: 1px solid $brand
-	text-transform: capitalize
-	letter-spacing: normal
-	&:active
-		color: #fff
 
-
-// The container <div> - needed to position the dropdown content
-.dropdown
-	position: relative
-	display: inline-block
-
-
-// Dropdown Content (Hidden by Default)
-.dropdown-content
-	display: none
-	position: absolute
-	background-color: #f1f1f1
-	min-width: 300px
-	// box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
-	// z-index: 1
-
-
-// Links inside the dropdown
-.dropdown-content a
-	background-color: #eee
-	padding: 12px
-	text-decoration: none
-	display: block
-	font-size: 20px
-	// &:hover
-	// background-color: $brand
-	// color: white
-
-// Show the dropdown menu on hover
-.dropdown:hover .dropdown-content
-	display: block
-
-
-// Change the background color of the dropdown button when the dropdown content is shown
-.dropdown:hover .dropbtn
-	background-color: $brand
-	border: 0px solid $brand
-
-// @media(max-width: 760px)
-//   .dropbtn
-//     padding: 6px 16px !important
-
-
-@media(max-width: 347px)
-	.dropbtn
-		padding: 6px 16px
-		width: 100%
 
 
 @media(max-width: 347px)
@@ -124,7 +65,6 @@
 	.navbar-header
 		a.navbar-brand
 			width: 0
-			overflow: hidden
 			display: none
 			opacity: 0
 .scroll-nav-color
