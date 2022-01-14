@@ -41,8 +41,7 @@ client:
   url: https://www.holtrealestateteam.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    https://www.onlinehomeestimate.com/lp/1629C48F-ADF4-442D-8507-A6F9F9BD6171/d3p
+  first_CTA_URL: https://hmbt.co/7HLD7m
   second_CTA_text: Home Search
   second_CTA_URL: https://www.holtrealestateteam.com/
 sidebar_CTA:
