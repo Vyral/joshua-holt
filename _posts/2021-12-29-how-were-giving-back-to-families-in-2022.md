@@ -22,7 +22,7 @@ hidden: false
 
 Our team recently had the opportunity to tour the Respite Center at RISE Wisconsin. We learned all about the work they’re doing to provide emotional support and emergency care for local families in need.
 
-It really resonated with us. We work with families every day with the focus of changing their lives through homeownership. Through our work, we’ve found that many families out there can benefit from organizations like RISE Wisconsin and their Respite Center. **We’re proud to announce that we have partnered with RISE Wisconsin to make their Respite Center in Madison our official nonprofit for 2022.**
+It really resonated with us. We work with families every day with the focus of changing their lives through the power of homeownership. Through our work, we’ve found that many families out there can benefit from organizations like RISE Wisconsin and their Respite Center. **We’re proud to announce that we have partnered with RISE Wisconsin to make their Respite Center in Madison our official nonprofit for 2022.**
 
 This center provides emergency childcare and respite for children ages zero to 14 as well as parents support and crisis counseling seven days a week. This center also helps parents and caregivers access important resources to support and stabilize their families.
 
