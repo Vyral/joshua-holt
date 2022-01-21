@@ -5,7 +5,8 @@ date: 2022-01-21 21:47:08
 tags:
   - Market Update
 excerpt: My three big predictions for the real estate market this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/2022+Market+Predictions.mp4
 pullquote: 'We may be headed toward a more balanced market. '
 enclosure_type: video/mp4
 enclosure_time:
