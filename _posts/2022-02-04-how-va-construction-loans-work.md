@@ -14,8 +14,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/va-construction-yt.jpg
-youtube_code: SQ5KsRNJgZc
-hidden: true
+youtube_code: DEDZSDrETPg
+hidden: false
 ---
 {% include youtube.html %}
 
