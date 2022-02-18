@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Five tips to help you make your long-distance move as easy as possible.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Tips+for+Moving+Across+the+Country.mp4
 pullquote: >-
   With remote work being so common these days, moving to your dream location
   isn't as difficult as it once was..
@@ -29,7 +30,7 @@ Are you or someone you know thinking about making a move out of the area, perhap
 
 {% include pullquote.html %}
 
-**3\. Declutter and do a home inventory.** Begin by decluttering your house and donating anything that you no longer need. Then, do an inventory of the items you are bringing with you. When you pack, label every box clearly so that you know exactly where to put it upon arrival in your new home.&nbsp;
+**3\. Declutter and do a home inventory.** Begin by decluttering your house and donating anything that you no longer need. Then, do an inventory of the items you are bringing with you. When you pack, label every box clearly so that you know exactly where to put it upon arrival in your new home.
 
 **4\. Account for the comfort and safety of kids and pets.** You'll need to make arrangements for babysitters, road entertainment, or pet accommodations.
 
