@@ -10,7 +10,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Tips+for+Moving+Across+the+Country.mp4
 pullquote: >-
   With remote work being so common these days, moving to your dream location
-  isn't as difficult as it once was..
+  isn't as difficult as it once was.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -36,4 +36,4 @@ Are you or someone you know thinking about making a move out of the area, perhap
 
 **5\. Let us connect you to the market that you're moving into.** When you need to find a great agent in your new area, let me and my team help you make that connection. With our Keller Williams partnership, we're part of the largest real estate network in the world. We can do the heavy lifting of screening agents for you so that you get to work with one who shares the same values and commitments that we do.
 
-I hope you found these tips informative. Feel free to share these tips with anybody you know who could benefit from them. If you have any questions, visit our website and don’t hesitate to give us a call at (608) 345-6594 or email us at [jdholt@kw.com](mailto:jdholt@kw.com). I look forward to hearing from you.
+We hope you found these tips informative. Feel free to share these tips with anybody you know who could benefit from them. If you have any questions, don’t hesitate to give us a call at (608) 345-6594 or email us at [jdholt@kw.com](mailto:jdholt@kw.com). I look forward to hearing from you.
