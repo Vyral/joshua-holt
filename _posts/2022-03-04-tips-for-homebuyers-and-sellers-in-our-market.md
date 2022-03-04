@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Homebuyers and Sellers in Our Market
-date: 2022-02-18 20:32:14
+date: 2022-03-04 15:32:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
