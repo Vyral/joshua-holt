@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/winner-s-market-yt.jpg
 youtube_code: U7KiVYkfFbg
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
