@@ -32,6 +32,6 @@ As we’re seeing rates continue to increase, I’ve had a bunch of folks ask me
 
 5:40 — Why I think we’ll see more ARMs as interest rates increase
 
-6:05 — Final thoughts/wrapping things up
+6:05 — Wrapping things up
 
-If you have any questions about mortgages, need a good lender, or have any other real estate-related questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about mortgages, need a good lender, or have any other real estate-related questions, don’t hesitate to reach out via phone or email. My team and I look forward to hearing from you soon.
