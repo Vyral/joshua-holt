@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="/img/team_photo.png" class="three-quarter-image">
+<img src="/img/teamphoto.png" class="three-quarter-image">
 
 # Welcome to the Holt Real Estate Team
 
