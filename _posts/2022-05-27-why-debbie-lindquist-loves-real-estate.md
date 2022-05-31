@@ -23,9 +23,9 @@ Today I’m joined by Debbie Lindquist, a recent addition to our team as one of 
 
 I had the important job of being a stay-at-home mom for eight years before I started working in real estate. Before that, I worked at a bank.
 
-**You got into real estate ix years ago. How did you connect with Keller Williams?**
+**You got into real estate six years ago. How did you connect with Keller Williams?**
 
-I interviewed for an admin position for an agent here at KW. After my interview, I decided that I wouldn’t be happy sitting at a desk and doing paperwork; I could do that anywhere. My heart was more in real estate and helping people, not just paperwork. I decided to get my real estate license and become an agent.&nbsp;
+I interviewed for an admin position for an agent here at KW. After my interview, I decided that I wouldn’t be happy sitting at a desk and doing paperwork; I could do that anywhere. My heart was more in real estate and helping people, so I decided to get my license and become an agent.
 
 {% include pullquote.html %}
 
@@ -45,6 +45,6 @@ The most important thing to me is that my clients trust me and know that I have 
 
 **What’s the best way to get in touch with you?&nbsp;**
 
-If you want to work with me, you can give me a call at (608) 216-8933 or email me at [debbielind@kw.com](mailto:debbielind@kw.com). I’m also on social media, just search for and contact me. You can also get a hold of Josh and let him know that you want to work with me.&nbsp;
+If you want to work with me, you can give me a call at (608) 216-8933 or email me at [debbielind@kw.com](mailto:debbielind@kw.com). I’m also on social media, just search for my name and contact me. You can also get a hold of Josh and let him know that you want to work with me.&nbsp;
 
 You can reach out to our team directly anytime at (608) 345-6594. We look forward to the opportunity to help more people as we grow our team, so if you or someone you know is looking to buy or sell, we’d love the opportunity to meet them and see if we’d be a good match.
