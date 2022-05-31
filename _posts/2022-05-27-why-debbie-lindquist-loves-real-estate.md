@@ -45,6 +45,6 @@ The most important thing to me is that my clients trust me and know that I have 
 
 **What’s the best way to get in touch with you?&nbsp;**
 
-If you want to work with me, you can give me a call at (608) 216-8933 or email me at [debbielind@kw.com](mailto:debbielind@kw.com). I’m also on social media, just search for my name and contact me. You can also get a hold of Josh and let him know that you want to work with me.&nbsp;
+If you want to work with me, you can give me a call at (608) 216-8933 or email me at [debbielind@kw.com](mailto:debbielind@kw.com). I’m also on social media; just search for my name and contact me. You can also get a hold of Josh and let him know that you want to work with me.&nbsp;
 
 You can reach out to our team directly anytime at (608) 345-6594. We look forward to the opportunity to help more people as we grow our team, so if you or someone you know is looking to buy or sell, we’d love the opportunity to meet them and see if we’d be a good match.
