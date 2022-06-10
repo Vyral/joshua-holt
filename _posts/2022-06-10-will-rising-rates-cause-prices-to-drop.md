@@ -3,7 +3,7 @@ layout: post
 title: Will Rising Rates Cause Prices To Drop?
 date: 2022-06-10 00:00:00
 tags:
-excerpt:
+excerpt: Here’s the impact that rising interest rates will have on home prices.
 enclosure:
 pullquote: Continued low supply will keep property values up.
 enclosure_type: video/mp4
