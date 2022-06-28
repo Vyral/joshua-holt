@@ -4,7 +4,8 @@ title: The Truth About Our Supposed 'Housing Bubble'
 date: 2022-06-24 05:00:00
 tags:
 excerpt: 'The future of our market is uncertain, but prices likely won’t fall. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/The+Truth+About+Our+Supposed+'Housing+Bubble'.mp4
 pullquote: 'No experts believe we’re in a housing bubble or heading for a crash. '
 enclosure_type: video/mp4
 enclosure_time:
