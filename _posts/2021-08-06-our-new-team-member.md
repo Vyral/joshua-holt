@@ -5,7 +5,8 @@ date: 2021-08-06 16:28:48
 tags:
   - Real Estate
 excerpt: Welcome the newest real estate agent on our team, Jonathan Gaspero.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Our+New+Team+Member.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
