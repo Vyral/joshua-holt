@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: We aren’t in a seller’s market; we’re in a market where everyone can win.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Everyone+Can+Win+in+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
