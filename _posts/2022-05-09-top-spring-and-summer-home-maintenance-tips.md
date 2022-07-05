@@ -5,7 +5,8 @@ date: 2022-05-09 20:13:50
 tags:
   - Home Seller Tips
 excerpt: My five best spring and summer preparation tips for your home in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Top+Spring+and+Summer+Home-Maintenance+Tips.mp4
 pullquote: Get the most out of your home during spring and summer.
 enclosure_type: video/mp4
 enclosure_time:
