@@ -7,7 +7,8 @@ tags:
 excerpt: >-
     If you’re a homeowner who expects trick-or-treaters to come to your door,
     here are a few safety tips to keep in mind this year.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Tips+for+a+Happy+%26+Safe+Halloween.mp4
 pullquote: Have a safe, fun, and happy Halloween!
 enclosure_type: video/mp4
 enclosure_time:
