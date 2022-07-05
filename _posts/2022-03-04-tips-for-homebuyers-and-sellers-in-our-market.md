@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s my best advice for homebuyers in today’s real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Tips+for+Homebuyers+and+Sellers+in+Our+Market.mp4
 pullquote: Don’t lose hope as a homebuyer.
 enclosure_type: video/mp4
 enclosure_time:
