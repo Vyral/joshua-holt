@@ -5,7 +5,8 @@ date: 2022-04-08 21:46:11
 tags:
   - Home Buyer Tips
 excerpt: Here’s what potential buyers should know about adjustable-rate mortgages.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Pros+and+Cons+of+Adjustable-Rate+Mortgages.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-As we’re seeing rates continue to increase, I’ve had a bunch of folks ask me about the differences between adjustable-rate and fixed-rate mortgages. Today I’ll go over the pros and cons of adjustable-rate mortgages, or ARMs.&nbsp;
+As we’re seeing rates continue to increase, I’ve had a bunch of folks ask me about the differences between adjustable-rate and fixed-rate mortgages. Today I’ll go over the pros and cons of adjustable-rate mortgages, or ARMs.
 
 **Feel free to watch the full video, or use these timestamps to browse specific topics at your leisure:**
 
