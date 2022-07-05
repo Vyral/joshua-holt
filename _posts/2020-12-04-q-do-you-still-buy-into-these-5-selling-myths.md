@@ -5,7 +5,8 @@ date: 2020-12-04 18:57:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s the truth behind popular selling myths that may be holding you back.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Q_+Do+You+Still+Buy+Into+These+5+Selling+Myths_.mp4
 pullquote: >-
   American homeowners on the whole have greater equity positions, which means
   they can walk away from their property if things get dicey.
@@ -15,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: pMkEt_U1URs
 ---
-
 {% include youtube.html %}
 
 There are plenty of delightful myths and legends surrounding the holiday season—mistletoes, toy-making elves, and a jolly, red-suited gift-bearer to name a few. Such tales add cheer and nostalgia to the season, but some myths can spoil the season. Here are the five most common home-selling myths that sellers should leave out in the snow this year:&nbsp;
