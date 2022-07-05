@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Rent-backs benefit both buyers and sellers in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Why+Rent-Backs+Benefit+Buyers+%26+Sellers.mp4
 pullquote: >-
   In our current market, it’s not uncommon for buyers to offer free rent-backs
   to sellers.
