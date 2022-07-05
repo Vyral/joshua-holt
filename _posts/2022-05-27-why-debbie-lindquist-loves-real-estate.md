@@ -4,7 +4,8 @@ title: Why Debbie Lindquist Loves Real Estate
 date: 2022-05-27 00:00:00
 tags:
 excerpt: Meet Debbie Lindquist, a great agent and one of our new sales partners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Why+Debbie+Lindquist+Loves+Real+Estate.mp4
 pullquote: The goal at the end of the day is to have great relationships and help people.
 enclosure_type: video/mp4
 enclosure_time:
