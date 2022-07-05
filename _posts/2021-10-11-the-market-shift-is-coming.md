@@ -5,7 +5,8 @@ date: 2021-10-11 17:53:41
 tags:
   - Market Update
 excerpt: The market is shifting from a seller’s market to a more balanced market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/The+Market+Shift+is+Coming.mp4
 pullquote: We're shifting from a seller's market to a more balanced market.
 enclosure_type: video/mp4
 enclosure_time:
