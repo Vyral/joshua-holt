@@ -5,7 +5,8 @@ date: 2021-07-23 19:03:26
 tags:
   - Market Update
 excerpt: Here’s a quick update on the current housing supply situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/What+Increasing+Housing+Supply+Means+to+You.mp4
 pullquote: >-
   More homes for sale mean that buyers have more options and sellers have more
   competition.
