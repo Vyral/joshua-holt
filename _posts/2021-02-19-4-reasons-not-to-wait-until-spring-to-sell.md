@@ -5,7 +5,8 @@ date: 2021-02-19 19:38:00
 tags:
   - Home Seller Tips
 excerpt: Here are the four main reasons why you shouldn’t wait till spring to list.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/4+Reasons+NOT+to+Wait+Until+Spring+to+Sell.mp4
 pullquote: >-
   You can enjoy everything the spring market has to offer right now but with
   even more advantages.
@@ -15,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/list-now-yt.jpg
 youtube_code: aQhsQ4vhCS4
 ---
-
 {% include youtube.html %}
 
 Recently, I met with a client of mine who had been debating whether to wait a few months into the spring market to list their home or do it now. I shared with them these four reasons why now might be the absolute best time to act:&nbsp;
