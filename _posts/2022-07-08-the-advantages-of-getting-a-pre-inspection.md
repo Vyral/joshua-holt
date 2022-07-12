@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/prelisting-inspection-holt-yt.jpeg
-youtube_code: vlfm85ENAJA
+youtube_code: yK-9YHXUbsU
 hidden: false
 ---
 {% include youtube.html %}
