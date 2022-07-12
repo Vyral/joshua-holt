@@ -17,7 +17,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Should you consider getting your home pre inspected before you put it on the market? It may sound counterintuitive, but there are plenty of good reasons to inspect your home when selling. Today I’ll share a few reasons why having a pre-inspection is beneficial to you as a seller.&nbsp;
+Should you consider getting your home pre-inspected before you put it on the market? It may sound counterintuitive, but there are plenty of good reasons to inspect your home when selling. Today I’ll share a few reasons why having a pre-inspection is beneficial to you as a seller.&nbsp;
 
 **You can watch my full explanation in the video above or skip to each topic using the timestamps provided:**
 
@@ -33,7 +33,7 @@ Should you consider getting your home pre inspected before you put it on the mar
 
 3:24 — You can attract more serious buyers
 
-4:06 — You can deal with less negotiations
+4:03 — You can deal with less negotiations
 
 5:16 — Sellers get more control while buyers have more peace of mind
 
