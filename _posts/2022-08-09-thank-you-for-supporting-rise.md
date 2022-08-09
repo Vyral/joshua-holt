@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thank You for Supporting RISE
-date:
+date: 2022-08-09 00:00:00
 tags:
   - Giving Back
 excerpt:
