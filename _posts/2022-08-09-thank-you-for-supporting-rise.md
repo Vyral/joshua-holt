@@ -4,8 +4,8 @@ title: Thank You for Supporting RISE
 date: 2022-08-09 00:00:00
 tags:
   - Giving Back
-excerpt:
-enclosure: We’re more than halfway to our year-end goal of $10,000!
+excerpt: 'We’re more than halfway to our year-end goal of $10,000!'
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
