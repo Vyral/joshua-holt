@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-At the Holt Real Estate Team, giving back to the communities we serve is at the heart of our team’s mission, vision, values, beliefs, and perspectives. At the beginning of the year, we announced our exciting new partnership with [RISE Wisconsin](https://risewisconsin.org/), our official non-profit organization. We pledged to donate a portion of our profits from each closing to RISE.
+At the Holt Real Estate Team, giving back to the communities we serve is at the heart of our team’s mission, vision, values, and perspectives. At the beginning of the year, we announced our exciting new partnership with [RISE Wisconsin](https://risewisconsin.org/), our official non-profit organization. We pledged to donate a portion of our profits from each closing to RISE.
 
 Our goal for this year was not only to raise awareness for this great organization, but we also wanted to raise at least $10,000 for the center by the end of 2022. Thanks to your support, today **we’re pleased to announce that we have already raised $6,000.** We’re making strides toward our year-end goal, and we are truly grateful for all your help.
 
