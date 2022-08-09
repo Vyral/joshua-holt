@@ -9,7 +9,7 @@ enclosure: We’re more than halfway to our year-end goal of $10,000!
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/charity-yt.jpeg
 youtube_code: Tt_zA0rqTfk
 hidden: false
