@@ -3,13 +3,13 @@ layout: post
 title: Buying Before You Sell in Today’s Market
 date: 2022-08-23 05:00:00
 tags:
-excerpt: Three options for people who need to buy a home before selling.
+excerpt: Two options for people who need to buy a home before selling.
 enclosure:
 pullquote: Buying a new home before selling your existing one has its unique challenges.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/buy-before-sell-yt.jpeg
+youtube_alternate_image: /uploads/buy-before-sell-yt-1.jpeg
 youtube_code: jO9h69AocQQ
 hidden: false
 ---
