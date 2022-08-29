@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/buy-before-sell-yt.jpeg
-youtube_code: 7AmEfh-z3Ug
+youtube_code: jO9h69AocQQ
 hidden: false
 ---
 {% include youtube.html %}
