@@ -4,7 +4,8 @@ title: Buying Before You Sell in Today’s Market
 date: 2022-08-23 05:00:00
 tags:
 excerpt: Two options for people who need to buy a home before selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Buying+Before+You+Sell+in+Today%E2%80%99s+Market.mp4
 pullquote: Buying a new home before selling your existing one has its unique challenges.
 enclosure_type: video/mp4
 enclosure_time:
