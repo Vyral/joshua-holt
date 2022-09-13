@@ -5,7 +5,8 @@ date: 2022-09-12 15:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Three types of homes that are selling and three that aren’t. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/3+Homes+That+Sell+and+3+That+Don%E2%80%99t.mp4
 pullquote: It’s very important that you get your pricing right from the get-go.
 enclosure_type: video/mp4
 enclosure_time:
