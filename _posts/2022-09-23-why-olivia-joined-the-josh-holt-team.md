@@ -17,6 +17,8 @@ hidden: false
 
 {% include excerpt.html %}
 
+&nbsp;
+
 Today I’m here with Olivia Kracht, our new executive assistant. She just joined the team, so we wanted to introduce her to all of you.
 
 Olivia has lived in the Madison area for around five years. She and her husband moved here for work, and after about a year, she had their first son. Olivia finished up her bachelor’s degree and decided she wanted to pursue a different opportunity, which led her to us.
