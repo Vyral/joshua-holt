@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Olivia Joined the Josh Holt Team
+title: Why Olivia Joined The Holt Real Estate Team
 date: 2022-09-23 05:00:00
 tags:
 excerpt: 'Introducing our newest hire, executive assistant Olivia Kracht. '
