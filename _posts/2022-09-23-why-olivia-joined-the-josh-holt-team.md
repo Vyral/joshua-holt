@@ -4,7 +4,8 @@ title: Why Olivia Joined The Holt Real Estate Team
 date: 2022-09-23 05:00:00
 tags:
 excerpt: 'Introducing our newest hire, executive assistant Olivia Kracht. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Why+Olivia+Joined+The+Holt+Real+Estate+Team.mp4
 pullquote: We’re so grateful to have Olivia on the team.
 enclosure_type: video/mp4
 enclosure_time:
