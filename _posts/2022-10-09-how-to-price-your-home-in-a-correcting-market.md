@@ -4,7 +4,8 @@ title: How To Price Your Home in a Correcting Market
 date: 2022-10-09 05:00:00
 tags:
 excerpt: 'You can still get top dollar if you price your home correctly. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/How+To+Price+Your+Home+in+a+Correcting+Market.mp4
 pullquote: >-
   We’re still in a seller’s market, but you have to be careful about how you
   price your home.
