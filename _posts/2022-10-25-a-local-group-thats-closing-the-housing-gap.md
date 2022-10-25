@@ -4,7 +4,8 @@ title: A Local Group That’s Closing the Housing Gap
 date: 2022-10-25 05:00:00
 tags:
 excerpt: All about a local organization that’s serving our community in great ways.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/A+Local+Group+That%E2%80%99s+Closing+the+Housing+Gap.mp4
 pullquote: You can help close the gap in housing opportunities.
 enclosure_type: video/mp4
 enclosure_time:
