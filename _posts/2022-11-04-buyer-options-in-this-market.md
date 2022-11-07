@@ -3,7 +3,7 @@ layout: post
 title: Buyer Options in This Market
 date: 2022-11-04 05:00:00
 tags:
-excerpt: Buyers have multiple options available to them that can lower their rate.
+excerpt: Buyers have multiple options available to them that can lower their rates.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
