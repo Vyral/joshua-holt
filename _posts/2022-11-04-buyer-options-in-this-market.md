@@ -4,7 +4,8 @@ title: Buyer Options in This Market
 date: 2022-11-04 05:00:00
 tags:
 excerpt: Buyers have multiple options available to them that can lower their rates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Buyer+Options+in+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
