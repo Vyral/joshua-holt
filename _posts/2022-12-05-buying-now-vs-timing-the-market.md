@@ -4,7 +4,8 @@ title: 'Buying Now vs. Timing the Market '
 date: 2022-12-05 05:00:00
 tags:
 excerpt: 'How to decide if you should try to time the market for a cheaper price. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Buying+Now+vs.+Timing+the+Market+(2).mp4
 pullquote: What happens if you wait for a crash that never comes?
 enclosure_type: video/mp4
 enclosure_time:
