@@ -17,7 +17,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Where is our local market heading? Today we’re sharing our 2023 Madison area real estate predictions and explain how we came up with these forecasts. In a nutshell, we expect to continue to see low inventory and strong prices due to a few supply and demand factors.
+Where is our local market heading? Today we'll share our 2023 Madison area real estate predictions and explain how we came up with these forecasts. In a nutshell, we expect to continue to see low inventory and strong prices due to a few supply and demand factors.
 
 **Feel free to watch the full video above or use these timestamps to browse specific topics at your leisure:**
 
