@@ -4,7 +4,8 @@ title: Predicting Where the Market Is Heading in 2023
 date: 2022-12-19 05:00:00
 tags:
 excerpt: We predict the future of home prices and inventory in the Madison market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Holt/Videos/2022/Predicting+Where+the+Market+Is+Heading+in+2023.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
