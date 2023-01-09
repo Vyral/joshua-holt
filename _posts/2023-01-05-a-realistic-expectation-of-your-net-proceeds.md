@@ -19,7 +19,7 @@ hidden: false
 
 The market has been changing lately, and many people have been wondering if it’s a good time to sell their homes. If that is you, one factor that will help you make that decision is knowing how much money you’ll get to keep after you sell. Too many people oversimplify this estimate and end up disappointed. I want to help you avoid that.&nbsp;
 
-Start by using a home value estimate calculator. **[You can access mine here](https://holt-home-value.paperform.co/){: target="_blank" rel="noopener"}**. This is a free tool that shows you an estimate of how much your home is worth. This is not a guarantee, so know that numbers will fluctuate. However, this will at least help you get a good ballpark figure to start with.
+Start by using a home value estimate calculator. **[You can access mine here](https://get.homebot.ai/?agentId=5ee787c64c120c008dccdaf0){: target="_blank" rel="noopener"}**. This is a free tool that shows you an estimate of how much your home is worth. This is not a guarantee, so know that numbers will fluctuate. However, this will at least help you get a good ballpark figure to start with.
 
 {% include pullquote.html %}
 
