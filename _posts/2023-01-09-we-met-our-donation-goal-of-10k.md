@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/RISE_Photo_12212022.jpg
 youtube_code:
 hidden: true
 ---
-![](/uploads/rise-photo-12212022.jpg){: width="1522" height="1237"}
+![](/uploads/rise-photo-12212022.jpg){: width="750" height="auto"}
 
 We're incredibly grateful to all of our clients who supported our team and chose us to help them with their real estate needs this year. At the beginning of the year we announced the Respite Center at RISE Wisconsin as our official non-profit partner and set a goal to donate $10,000 by contributing a portion of our profits from each closing\!
 
