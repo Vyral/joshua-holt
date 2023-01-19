@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sell-now-yt-2.jpg
 youtube_code: mfe6LEe1mmk
-hidden: false
+hidden: true
 ---
 {% include youtube.html %}
 
@@ -35,4 +35,4 @@ For example, one of the best ways to sell your home fast on the open market is t
 
 Your agent might also suggest cleaning, decluttering, and depersonalizing. The easier it is for buyers to picture themselves living in your home, the faster it will sell. Similarly, curb appeal is crucial. First impressions matter, so if you tidy up your yard, you’ll receive a better deal. Finally, buyers love financial incentives. Offering to help pay closing costs or a transferable home warranty could convince a buyer to close as soon as possible.&nbsp;
 
-**Whichever route is best for you, I would love to help.** Just call or email me with any questions. I look forward to hearing from you\!
+**Whichever route is best for you, I would love to help.** Just call or email me with any questions. I look forward to hearing from you!
