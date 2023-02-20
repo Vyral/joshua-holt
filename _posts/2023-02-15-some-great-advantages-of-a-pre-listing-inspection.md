@@ -9,8 +9,8 @@ pullquote: Pre-listing inspections will give sellers true representations of the
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: bwocvXPnvLE
+youtube_alternate_image: /uploads/inspections-yt.jpg
+youtube_code: Dn9c0843Ehc
 hidden: false
 ---
 {% include youtube.html %}
