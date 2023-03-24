@@ -9,7 +9,7 @@ pullquote: Staging is an inexpensive way to get a maximum return on your home in
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-48.jpg
 youtube_code: qD1OeNQ7FAg
 hidden: false
 ---
