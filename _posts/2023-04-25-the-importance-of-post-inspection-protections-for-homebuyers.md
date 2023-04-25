@@ -17,7 +17,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Today I had the pleasure of sitting down with Phil Jackson with Wesco Inspections to learn all about home inspections. Phil explains what is and is not included in a home inspection and how to select the best inspector for your needs.
+Today I had the pleasure of sitting down with Phil Jackson with Wisco Inspections to learn all about home inspections. Phil explains what is and is not included in a home inspection and how to select the best inspector for your needs.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
