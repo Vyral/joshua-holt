@@ -11,8 +11,8 @@ show_custom_links: true
 custom_links:
   - title: About
     url: /about/
-  - title: Testimonials
-    url: '#testimonials'
+  - title: Join Our Team
+    url: https://holtrealestateteamishiring.paperform.co/
 show_custom_links_new_tab: false
 custom_links_new_tab:
 client:
