@@ -4,9 +4,7 @@ title: 'Building Wealth from the Ground Up: Your Home Equity Blueprint'
 date: 2023-09-21 05:00:00
 excerpt: Five fantastic ways that you can use your built-up home equity.
 enclosure:
-pullquote: >-
-  PQ: Your home is more than just a place to live; it's a valuable financial
-  asset. 
+pullquote: 'Your home is more than just a place to live; it''s a valuable financial asset. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
