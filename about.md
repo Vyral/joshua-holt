@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-![](/uploads/holt-team-sept-2023.jpg){: .three-quarter-image width="740" height="480"}
+![](/uploads/holt-team-sept-2023.jpg){: .three-quarter-image width="854" height="480"}
 
 # Welcome to the Holt Real Estate Team
 
