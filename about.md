@@ -3,11 +3,11 @@ layout: default
 title: About
 permalink: /about/
 ---
-![](/img/teamphoto.png){: .three-quarter-image}
+![](/uploads/holt-team-sept-2023.jpg){: .three-quarter-image width="640" height="480"}
 
 # Welcome to the Holt Real Estate Team
 
-I’m Joshua Holt, a licensed full-service REALTOR&reg; and Broker and Founder of the Holt Real Estate Team. I work in partnership with Keller Williams Realty, representing buyers and sellers. I’ve proudly served our country, and now I proudly serve the communities throughout Dane County and South Central Wisconsin. I love working with Keller Williams, the \#1 name in real estate. I strongly believe in having a growth mindset which is why I invest in weekly coaching with our MAPS coaching division as well as being a multiple time graduate of their BOLD coaching course. I’m honored to serve on our office’s Agent Leadership Council as well as being a member of both the KW Military and KW Relocation divisions.
+I’m Joshua Holt, a licensed full-service REALTOR® and Broker and Founder of the Holt Real Estate Team. I work in partnership with Keller Williams Realty, representing buyers and sellers. I’ve proudly served our country, and now I proudly serve the communities throughout Dane County and South Central Wisconsin. I love working with Keller Williams, the \#1 name in real estate. I strongly believe in having a growth mindset which is why I invest in weekly coaching with our MAPS coaching division as well as being a multiple time graduate of their BOLD coaching course. I’m honored to serve on our office’s Agent Leadership Council as well as being a member of both the KW Military and KW Relocation divisions.
 
 ### How it All Started
 
@@ -21,9 +21,9 @@ Stoughton is a city I love dearly and the “birthplace of the coffee break,” 
 
 ### Why Choose Our Team?
 
-Meeting new people and helping clients find the right house to call home is our passion- no matter if that house is move in ready or could stand to use some updating\!
+Meeting new people and helping clients find the right house to call home is our passion- no matter if that house is move in ready or could stand to use some updating!
 
-Our client dedication, strong customer-focused mentality, education first process and genuine love of helping others to meet their real estate goals are what motivates us the most. If you’re relocating to the greater Madison, WI area, searching for a new home to accommodate your growing (or empty nest\!) needs, or moving on to a new city and to your next phase of life, we hope to have the opportunity to get to know you and guide you through all of the important steps involved in a real estate transaction.
+Our client dedication, strong customer-focused mentality, education first process and genuine love of helping others to meet their real estate goals are what motivates us the most. If you’re relocating to the greater Madison, WI area, searching for a new home to accommodate your growing (or empty nest!) needs, or moving on to a new city and to your next phase of life, we hope to have the opportunity to get to know you and guide you through all of the important steps involved in a real estate transaction.
 
 When you work with our team, you will receive knowledgeable and professional real estate agents, a committed ally to negotiate on your behalf, the systems in place to streamline buying or selling your home and the backing of a trusted company, Keller Williams Realty.
 
@@ -33,6 +33,4 @@ Looking to sell your home? With our relationship with Keller Williams Realty, yo
 
 Through our KWLS system, your listing will display on top name sites like Zillow, Trulia, Realtor.com and over 750 other sites to get you the most exposure to your home.
 
-Our company prides itself in staying on the cutting edge of technology and if you select our team as your real estate agent, you will receive all of this and more. You could never find a more dedicated, energetic, or focused team to represent you. Please give us a call for a no obligation assessment of your needs\!
-
-&nbsp;
+Our company prides itself in staying on the cutting edge of technology and if you select our team as your real estate agent, you will receive all of this and more. You could never find a more dedicated, energetic, or focused team to represent you. Please give us a call for a no obligation assessment of your needs!
