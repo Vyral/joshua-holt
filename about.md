@@ -24,7 +24,6 @@ When you choose us as your partners, you're enlisting the expertise of seasoned 
 that is Keller Williams Realty. Let's unite to turn your real estate aspirations into a dazzling reality! 🌟
 
 ### Meet The Team
-
 **Joshua Holt - CEO | Broker | Realtor®**
 
 Meet Joshua, your licensed real estate maestro and broker extraordinaire! 🏡 As the visionary leader of the Holt Real Estate Team, he's teamed up with the powerhouse that is Keller Williams to bring you top-tier service.
