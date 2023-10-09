@@ -45,7 +45,7 @@ Beyond her professional life, Olivia is a vibrant soul with a flair for adventur
 
 But in her professional realm, Olivia is the secret sauce of the Holt Real Estate Team. Her fascination lies in uncovering the unique strengths within a real estate team, and she's the unwavering advocate ensuring your every expectation and dream are not just met but exceeded. Collaborative work is her passion, and she thrives on contributing her boundless enthusiasm to the team's success.
 
-**Debbie Lindquist - Sales Partner | Realtor®**
+Debbie Lindquist - Sales Partner | Realtor®
 
 Meet Debbie, a proud Cheesehead with a heart as big as the Wisconsin skies! 🧀 Originally rooted just a mere 6 miles west of Green Bay, she embarked on a life-changing journey in 2008 when she and her family decided to call Dane County home, with Sun Prairie becoming their
 beloved haven.
