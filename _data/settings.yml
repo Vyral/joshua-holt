@@ -16,21 +16,19 @@ custom_links:
 show_custom_links_new_tab: false
 custom_links_new_tab:
 client:
-  name: Joshua Holt
+  name: Holt Real Estate Team
   title:
   license_number:
   about_markdown: >-
-    I’m Joshua Holt, a licensed full-service REALTOR® and Broker and Founder of
-    the Holt Real Estate Team. I work in partnership with Keller Williams
-    Realty, representing buyers and sellers. I’ve proudly served our country,
-    and now I proudly serve the communities throughout Dane County and South
-    Central Wisconsin. I love working with Keller Williams, the \#1 name in real
-    estate. I believe strongly is having a growth mindset which is why I invest
-    in weekly coaching with our MAPS coaching division as well as being a
-    multiple time graduate of their BOLD coaching course. I'm honored to serve
-    on our office's Agent Leadership Council as well as being a member of both
-    the KW Military and KW New Homes divisions.
-  brand: Holt Real Estate Team
+    We're not just any real estate team; we're a proud Veteran Owned force in
+    Madison, WI, and beyond, covering the vibrant SouthCentral Wisconsin region.
+    Every sunrise marks the start of a day dedicated to our three-fold mission:
+    Sell Houses. Have Fun. GiveBack. 🏡🎉🤝<br><br>Join us on this exciting
+    journey where we're not just selling homes; we're creating unforgettable
+    experiences. We're injecting joy into every step of the real estate process,
+    and as a bonus, we're giving back to our community. Get ready for a dynamic
+    and meaningful real estate adventure with us!
+  brand:
   brokerage: Keller Williams
   market: Madison, WI
   address: 200 River Pl 130 Madison, WI 53716
