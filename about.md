@@ -55,8 +55,7 @@ But here's the twist: Debbie's enchantment with real estate, design, and staging
 
 With Debbie in your corner, you're not just navigating the real estate landscape; you're embarking on a memorable journey filled with expertise, heart, and a true Cheesehead's spirit. 🏡🧡 Let's make your real estate aspirations come to life, together!
 
-**Ben Brummell - Market Specialist | Realtor®**
-
+**Ben Brummell - Marketing Specialist | Realtor®**
 Meet Ben, whose journey began in the bustling heart of Bethesda, MD, and ventured through the vibrant landscapes of Northern Virginia and the suburbs of Washington, D.C. 🌆
 
 After high school, he embarked on a unique path by enlisting in the United States Coast Guard. His duty station? The Coast Guard Training Center in picturesque Yorktown, VA. 🌊
