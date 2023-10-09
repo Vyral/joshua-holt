@@ -25,7 +25,7 @@ that is Keller Williams Realty. Let's unite to turn your real estate aspirations
 
 ### Meet The Team
 
-Joshua Holt - CEO | Broker | Realtor®
+**Joshua Holt - CEO | Broker | Realtor®**
 
 Meet Joshua, your licensed real estate maestro and broker extraordinaire! 🏡 As the visionary leader of the Holt Real Estate Team, he's teamed up with the powerhouse that is Keller Williams to bring you top-tier service.
 
@@ -37,7 +37,7 @@ trenches, receiving coaching with our MAPS division, and his commitment to excel
 
 In Joshua, you're not just getting a real estate expert; you're gaining a partner who's armed with experience, education, and a heart devoted to your success. 🔑 Let's embark on this exciting real estate journey together!
 
-Olivia Kracht - Executive Assistant
+**Olivia Kracht - Executive Assistant**
 
 Meet Olivia, the driving force behind making sure you receive "Our Promise" and an advocate for your real estate dreams! 🌟 Originally hailing from the enchanting Wisconsin shores of Lake Michigan, Olivia holds a magna cum laude bachelor's degree in Psychology that laid the sturdy
 foundation for her journey to Dane County. She proudly wears the Wisconsinite badge.
@@ -46,7 +46,7 @@ Beyond her professional life, Olivia is a vibrant soul with a flair for adventur
 
 But in her professional realm, Olivia is the secret sauce of the Holt Real Estate Team. Her fascination lies in uncovering the unique strengths within a real estate team, and she's the unwavering advocate ensuring your every expectation and dream are not just met but exceeded. Collaborative work is her passion, and she thrives on contributing her boundless enthusiasm to the team's success.
 
-Debbie Lindquist - Sales Partner | Realtor®
+**Debbie Lindquist - Sales Partner | Realtor®**
 
 Meet Debbie, a proud Cheesehead with a heart as big as the Wisconsin skies! 🧀 Originally rooted just a mere 6 miles west of Green Bay, she embarked on a life-changing journey in 2008 when she and her family decided to call Dane County home, with Sun Prairie becoming their
 beloved haven.
@@ -57,7 +57,7 @@ But here's the twist: Debbie's enchantment with real estate, design, and staging
 
 With Debbie in your corner, you're not just navigating the real estate landscape; you're embarking on a memorable journey filled with expertise, heart, and a true Cheesehead's spirit. 🏡🧡 Let's make your real estate aspirations come to life, together!
 
-Ben Brummell - Market Specialist | Realtor®
+**Ben Brummell - Market Specialist | Realtor®**
 
 Meet Ben, whose journey began in the bustling heart of Bethesda, MD, and ventured through the vibrant landscapes of Northern Virginia and the suburbs of Washington, D.C. 🌆
 
