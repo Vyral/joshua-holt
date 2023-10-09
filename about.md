@@ -46,6 +46,7 @@ Beyond her professional life, Olivia is a vibrant soul with a flair for adventur
 But in her professional realm, Olivia is the secret sauce of the Holt Real Estate Team. Her fascination lies in uncovering the unique strengths within a real estate team, and she's the unwavering advocate ensuring your every expectation and dream are not just met but exceeded. Collaborative work is her passion, and she thrives on contributing her boundless enthusiasm to the team's success.
 
 **Debbie Lindquist - Sales Partner | Realtor®**
+
 Meet Debbie, a proud Cheesehead with a heart as big as the Wisconsin skies! 🧀 Originally rooted just a mere 6 miles west of Green Bay, she embarked on a life-changing journey in 2008 when she and her family decided to call Dane County home, with Sun Prairie becoming their
 beloved haven.
 
@@ -56,6 +57,7 @@ But here's the twist: Debbie's enchantment with real estate, design, and staging
 With Debbie in your corner, you're not just navigating the real estate landscape; you're embarking on a memorable journey filled with expertise, heart, and a true Cheesehead's spirit. 🏡🧡 Let's make your real estate aspirations come to life, together!
 
 **Ben Brummell - Marketing Specialist | Realtor®**
+
 Meet Ben, whose journey began in the bustling heart of Bethesda, MD, and ventured through the vibrant landscapes of Northern Virginia and the suburbs of Washington, D.C. 🌆
 
 After high school, he embarked on a unique path by enlisting in the United States Coast Guard. His duty station? The Coast Guard Training Center in picturesque Yorktown, VA. 🌊
