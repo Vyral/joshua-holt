@@ -28,8 +28,8 @@ client:
     experiences. We're injecting joy into every step of the real estate process,
     and as a bonus, we're giving back to our community. Get ready for a dynamic
     and meaningful real estate adventure with us!
-  brand:
-  brokerage: PLACE
+  brand: Keller Williams
+  brokerage: Powered by PLACE
   market: Madison, WI
   address: 200 River Pl 130 Madison, WI 53716
   phone: 608-345-6594
@@ -37,7 +37,7 @@ client:
   phone2:
   phone2_type:
   email: info@homeswithholt.com
-  url: https://holtrealestateteam.kw.com/
+  url: https://holtrealestateteam.com/
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://hmbt.co/7HLD7m
