@@ -61,7 +61,7 @@ Yet, the real twist in the tale happened when Ben and his wife decided to put do
 
 But what truly sets Ben on fire is his ultimate mission: guiding you to the home of your dreams! 🏡🗺 He's not just a real estate pro; he's your trusty navigator on this unforgettable journey. Let's turn your housing dreams into reality, together!
 
-### Beth Linden-Johnson - Sales Partner | Realtor®
+### Beth Linden-Johnson - Sales Partner \| Realtor®
 
 Hailing from the vibrant city of Madison, WI, Beth is a local aficionado with a heart deeply rooted in southern Wisconsin. From suburban streets to country lanes, she’s embraced every nook and cranny, making this area her forever home.
 
