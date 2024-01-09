@@ -60,3 +60,15 @@ But Ben's maritime adventures didn't stop there. Oh no! He set sail to earn his 
 Yet, the real twist in the tale happened when Ben and his wife decided to put down new roots in Madison, in their newly-built home. Since their move, Ben has fully embraced the Cheesehead spirit, passionately cheering on all the local teams. When he's not helping folks find their dream homes, you'll find him exploring the charms of Madison with his wife, mastering the art of grilling, and embarking on scenic road trips. 🏡🏈🍔
 
 But what truly sets Ben on fire is his ultimate mission: guiding you to the home of your dreams! 🏡🗺 He's not just a real estate pro; he's your trusty navigator on this unforgettable journey. Let's turn your housing dreams into reality, together!
+
+### Beth Linden-Johnson - Sales Partner | Realtor®
+
+Hailing from the vibrant city of Madison, WI, Beth is a local aficionado with a heart deeply rooted in southern Wisconsin. From suburban streets to country lanes, she’s embraced every nook and cranny, making this area her forever home.
+
+Her real estate expertise is fueled by her deep connection to the region and her extensive background in various customer service roles. Whether it's hospitality, property management, or her prior stint in real estate, Beth's commitment to serving others shines through.
+
+After earning her Bachelor’s degree in Interior Design, Beth found her true passion in space planning and design, sparking the creation of her successful Home Staging and Cleaning business. Eventually, she honed her focus on occupied home staging, naturally leading her back into the exciting world of real estate.
+
+With a knack for visualizing a home's potential and turning it into reality, Beth stands out as the go-to real estate agent. Her dedication, passion, and down-to-earth personality make her the ideal partner for all your real estate needs. Whether you're buying or selling, she's the agent you'll want by your side.
+
+Outside of work, you might catch Beth hitting the gym, lifting weights alongside other strong women, or enjoying quality time with her two kids, embracing whatever adventures each day brings.
