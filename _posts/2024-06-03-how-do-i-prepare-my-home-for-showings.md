@@ -8,7 +8,7 @@ pullquote: Buyers will pay a premium for homes in good condition.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-8-2.jpg
+youtube_alternate_image: /uploads/2-9-1.jpg
 youtube_code: PqGN-oE9QtE
 hidden: false
 ---
