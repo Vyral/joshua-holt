@@ -22,8 +22,8 @@ Are you planning on selling your home in the near future? Now is a great time to
 
 {% include pullquote.html %}
 
-**2\. Costs of selling.** These are the costs that come with a real estate transaction and include things like listing agent commission, buyer’s agent commission, marketing costs, and more. Depending on who your agent is and what they offer, the cost of their commission could range from 3% to 6%. Plus, many agents also offer different commission packages, so you can customize what type of service you get based on your budget.
+**2\. Costs of selling.** These are the costs that come with a real estate transaction and include things like agent commission, marketing costs, and more. Depending on who your agent is and what they offer, the cost of their commission varies. Plus, many agents also offer different commission packages, so you can customize what type of service you get based on your budget.
 
-**3\. Closing costs.** These costs go towards transferring the ownership of a property from one person to another and include things like title fees, escrow fees, mortgage insurance, seller concessions, notary fees, and more. While seller concessions can be negotiated, and closing costs can vary based on the value of your property, you can generally expect to pay between 0.5% and 1% of the total sales price at closing.
+**3\. Closing costs.** These costs go towards transferring the ownership of a property from one person to another and include things like title fees, escrow fees, mortgage insurance, seller concessions, notary fees, and more. While seller concessions can be negotiated, and closing costs can vary based on the value of your property, you can generally expect to pay depending on the total sales price at closing.
 
 Planning for a home sale is a lot of work, but we can help. Just call or email us today, and we’ll help you analyze and break down how much cash you need to sell your home. We look forward to hearing from you!
