@@ -7,8 +7,8 @@ enclosure:
 pullquote: Work with your agent to find out which pre-listing items are worth it for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/2-1-3.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/josh-holt-ss-template-1.jpg
 youtube_code: RvlUlW5bmFs
 hidden: false
 ---
